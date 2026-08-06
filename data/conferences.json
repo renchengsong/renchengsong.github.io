@@ -1,0 +1,22 @@
+{
+  "conferences": [
+    "王晗，宋仁成 \"Uncertainty quantification for deep learning-based remote photoplethysmography,\" 2023 中国生物医学工程大会暨创新医疗峰会，苏州, 2023/5/18-21, 专题口头报告",
+    "任聪，宋仁成 \"基于视频和FMCW雷达信息融合的非接触式人体呼吸率测量研究,\" 2023 中国生物医学工程大会暨创新医疗峰会，苏州, 2023/5/18-21, 专题口头报告",
+    "Wang, Y., X. Yang, X. Liu, R. Song, and J. Zhang. Remote assessment of physiological parameters by non-contact methods to detect mental stress. in Eighth International Conference on Electronic Technology and Information Science (ICETIS 2023). 2023. SPIE.",
+    "Qian, Z., X. Zhang, K. Xu, and R. Song, Physically Inspired Learning-based Microwave Imaging un- der Limited Aperture. 2023 Progress in Electromagnetic Research Symposium (PIERS 2023), Prague, 2023",
+    "Liu, X., Z. Sun, X. Li, R. Song, and X. Yang, VidBP: Detecting Blood Pressure from Facial Videos with Personalized Calibration. 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC 2023, Sydney, 2023.",
+    "H Zhao, Y Liu, R Song, \"Physical-Based Deep Unrolling Network for Solving Full-Wave Inverse Scattering Problems,\"  2021-2022  IEEE MTT-S International Microwave Biomedical Conference (IMBioC)，Suzhou, 2022, oral presentation",
+    "M Li, R Song, \"Physics-inspired SOM-Net for Solving Full-wave Inverse Scattering Problems,\"  2022 International Applied Computational Electromagnetics Society(ACES-China)，Xuzhou, 2022/12/09-12, oral presentation",
+    "M Li, R Song, \"Electromagnetic Inverse Scattering With an Untrained Neural Network,\"  2022 IEEE MTT-S International Microwave Biomedical Conference (IMBioC)，Suzhou, 2022, oral presentation",
+    "Y Huang, R Song, \"Learning-based Electromagnetic Inverse Scattering with Mixed Boundaries,\" 2021-2022 Progress in Electromagnetic Research Symposium (PIERS 2021-2022)，Hangzhou, 2022, oral presentation",
+    "宋仁成, 孙晓雪, 成娟，陈勋 \"Remote Photoplethysmography Methods Robust Against Spatially Uneven Illuminations,\" 2021-2022 中国生物医学工程大会暨创新医疗峰会，线上会议, 2022, 专题口头报告",
+    "Y Huang, R Song, \"Structural similarity loss functions for deep learning based inverse scattering methods,\" 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO 2020)，Hangzhou, 2020, oral presentation",
+    "R Song, Y Huang, \"Electromagnetic  inverse  scattering  with  perceptual adversarial networks,\" 2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO 2020)，Hangzhou, 2020, oral presentation",
+    "S Zhang, R Song, J Cheng, Y Zhang, X Chen, \"A feasibility study of a video-based heart rate estimation method with convolutional neural networks,\" 2019 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA), Tianjin,\t2019, oral presentation",
+    "L Pan, R Song, SP Yeo, X Chen, \"Compressive-sensing-based Phaseless Imaging,\" PIERS 2013, Taipei, 2013, poster",
+    "R Song, X Ye, X Chen, \"Reconstruction of Electromagnetic Scatterers with Different Boundary Conditions,\" PIERS 2013, Taipei, 2013, poster",
+    "R Song, Y. Zhong, X Chen, \"A multi-dimensional sampling method for locating small inclusions by electromagnetic wave,\" International Conference on Inverse Problems and Related Topics 2012, Nanjing, 2012, oral presentation",
+    "R Song, R Chen, X Chen, \"Imaging of 3D Anisotropic Inclusions in Multi-layered Medium by MUSIC with Enhanced Resolution,\" PIERS 2012,\tKuala Lumpur, 2012, oral presentation",
+    "R Song, J Zhu, \"A Large Range Step Method for the Waveguides with Loss,\" International Conference on Applied Mathematics: Modeling, Analysis and Computation, Hongkong, 2008, oral presentation"
+  ]
+}

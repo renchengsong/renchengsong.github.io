@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}Publications — {{ p.person.name }}{% endblock %}
+
+{% block body %}
+<section style="border-top:0">
+  <h2>Publications</h2>
+  <p style="color:var(--muted);font-size:14.5px">
+    {{ n_pubs }} journal papers, sorted by year. Synced from
+    <a href="{{ p.person.links[0].url }}">Google Scholar</a> and grouped into three research areas.
+  </p>
+
+  <div class="filters" id="filters">
+    <button data-f="all" aria-pressed="true">All <span class="cited">{{ n_pubs }}</span></button>
+    {% for c in p.site.categories %}
+    <button data-f="{{ c.key }}" aria-pressed="false" style="--c: {{ colors[c.key] }}">
+      <span class="dot"></span>{{ c.short }} <span class="cited">{{ counts[c.key] }}</span>
+    </button>
+    {% endfor %}
+  </div>
+
+  {% include "_publist.html" %}
+</section>
+
+<section id="conferences">
+  <h2>Conference presentations</h2>
+  <ul class="plainlist">
+    {% for c in conferences %}<li><span>{{ c }}</span></li>{% endfor %}
+  </ul>
+</section>
+
+<section id="patents">
+  <h2>Patents</h2>
+  <ul class="plainlist">
+    {% for pt in patents %}
+    <li><span class="when">{{ pt.number }}</span><span>{{ pt.title }}<br><span class="corr" style="font-size:13.5px">{{ pt.inventors }}, {{ pt.year }}</span></span></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<script>
+(function () {
+  var bar = document.getElementById('filters');
+  if (!bar) return;
+  var items = document.querySelectorAll('.pubs .pub');
+  bar.addEventListener('click', function (e) {
+    var b = e.target.closest('button');
+    if (!b) return;
+    var f = b.dataset.f;
+    bar.querySelectorAll('button').forEach(function (x) {
+      x.setAttribute('aria-pressed', String(x === b));
+    });
+    items.forEach(function (li) {
+      li.style.display = (f === 'all' || li.dataset.cat === f) ? '' : 'none';
+    });
+    history.replaceState(null, '', f === 'all' ? location.pathname : '#' + f);
+  });
+  var h = location.hash.slice(1);
+  if (h) { var t = bar.querySelector('[data-f="' + h + '"]'); if (t) t.click(); }
+})();
+</script>
+{% endblock %}

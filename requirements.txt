@@ -1,0 +1,4 @@
+Jinja2>=3.1
+PyYAML>=6.0
+# 只有在不用 SerpApi、走免费直连时才需要下面这个
+scholarly>=1.7.11

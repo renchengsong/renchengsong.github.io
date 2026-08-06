@@ -1,0 +1,98 @@
+site:
+  url: "https://renchengsong.github.io"
+  title: "Rencheng Song"
+  # 三个研究方向 = 论文自动归类的三个类别。key 不要随意改（数据文件里用它）
+  categories:
+    - key: vision
+      name: "Vision-based vital sign monitoring"
+      short: "Vision-based vital signs"
+      blurb: "Camera-based measurement of heart rate, respiration and blood pressure."
+    - key: hmi
+      name: "Human-machine natural interaction"
+      short: "Human-machine interaction"
+      blurb: "EEG/physiological signal decoding for emotion, seizure and interaction."
+    - key: em
+      name: "Electromagnetic modeling and inverse scattering"
+      short: "EM inverse scattering"
+      blurb: "Learning-based solvers for full-wave forward and inverse problems."
+
+person:
+  name: "Rencheng Song"
+  name_cn: "宋仁成"
+  title: "Professor"
+  photo: "pic/p2.jpeg"
+  cv: "pdfs/Song_cv_hfut.pdf"
+  email: "rcsong@hfut.edu.cn"
+  office:
+    - "Room 613, Keji Building"
+    - "Hefei University of Technology"
+    - "No. 193 Tunxi Road, Hefei, Anhui 230009, China"
+  affiliations:
+    - name: "School of Instrument Science and Opto-electronics Engineering"
+      url: "https://yqkx.hfut.edu.cn/"
+    - name: "Hefei University of Technology"
+      url: "https://en.hfut.edu.cn/"
+  links:
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=GH-rVCUAAAAJ&hl=en"
+    - name: "Curriculum Vitae"
+      url: "pdfs/Song_cv_hfut.pdf"
+
+scholar:
+  author_id: "GH-rVCUAAAAJ"
+  # 作者名的各种写法，用来判断"是不是我的论文"以及加粗自己的名字
+  name_variants: ["R Song", "Rencheng Song", "Song, R.", "R. Song"]
+
+bio: |
+  I am a Professor at the School of Instrument Science and Opto-electronics Engineering,
+  Hefei University of Technology. I received my B.S. degree from Jilin University, Changchun,
+  China, in 2005, and my Ph.D. degree from Zhejiang University, Hangzhou, China in 2010, both
+  in computational mathematics. From 2010 to 2012, I was a Research Fellow in Prof.
+  <a href="https://www.ece.nus.edu.sg/stfpage/elechenx/">Xudong Chen</a>'s group at the National
+  University of Singapore. From 2013 to 2017, I was a Principal Scientist with the Sensor Physics
+  group at Halliburton, Singapore. Since May 2017, I have been with Hefei University of Technology.
+
+bio_extra: |
+  In recent years I have been the principal investigator for research projects including the
+  National Natural Science Foundation of China, the Anhui Province Key Research and Development
+  Program, and the Anhui Provincial Natural Science Foundation. I have published over 70 SCI
+  papers, more than 30 as first or corresponding author, of which 4 are ESI highly cited papers.
+  I hold 22 granted Chinese patents and 15 granted U.S. patents. I am an IEEE Senior Member, a
+  communication reviewer for the NSFC, and a reviewer for over 30 international journals including
+  IEEE TAP, IEEE MTT, IEEE TGRS, IEEE JBHI, IEEE TIM and Pattern Recognition.
+
+recruiting: |
+  I am looking for self-motivated master students interested in intelligent perception for
+  biomedical measurement or machine learning. Interested candidates are welcome to email me a resume.
+
+research_interests: |
+  Human-centered intelligent perception and natural human-machine interaction — in particular
+  computer-vision-based sensing of human vital signs, electromagnetic inverse-scattering imaging,
+  and natural human-machine interaction driven by multi-source information such as video and
+  physiological signals.
+
+grants:
+  - text: "National Natural Science Foundation of China"
+    period: "2023–2026"
+    role: "PI"
+  - text: "Key R&D Program of Anhui Province"
+    period: "2021–2023"
+    role: "PI"
+  - text: "Natural Science Foundation of Anhui Province"
+    period: "2021–2023"
+    role: "PI"
+  - text: "Fundamental Research Funds for the Central Universities"
+    period: "2021–2022"
+    role: "PI"
+
+teaching:
+  - name: "Multivariate statistical analysis"
+    period: "2017–present"
+  - name: "Neural networks"
+    period: "2019–present"
+  - name: "Introduction to deep learning"
+    period: "2022–present"
+
+news:
+  - date: "2026-08"
+    text: "Homepage rebuilt — publications now sync from Google Scholar automatically."

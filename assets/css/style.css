@@ -1,0 +1,184 @@
+/* Rencheng Song — homepage
+   设计约束：零外部请求（不加载 Google Fonts，国内打开快）、
+   信息密度高、三个研究方向用颜色标记贯穿全站。 */
+
+:root {
+  --ink:      #10161c;
+  --body:     #333d47;
+  --muted:    #6b7885;
+  --rule:     #e3e7ea;
+  --paper:    #ffffff;
+  --panel:    #f5f7f8;
+  --link:     #0d5c8a;
+
+  --cat-vision: #0e7c86;
+  --cat-hmi:    #7248a8;
+  --cat-em:     #b0611c;
+
+  --serif: Georgia, "Times New Roman", "Songti SC", serif;
+  --sans:  -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+           "Hiragino Sans GB", "Microsoft YaHei", Roboto, Helvetica, Arial, sans-serif;
+  --mono:  ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --w: 900px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--body);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid rgba(13,92,138,.28); }
+a:hover { border-bottom-color: var(--link); }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; border-radius: 2px; }
+
+.wrap { max-width: var(--w); margin: 0 auto; padding: 0 24px; }
+
+/* ---------- 顶栏 ---------- */
+.topbar {
+  border-bottom: 1px solid var(--rule);
+  position: sticky; top: 0; z-index: 10;
+  background: rgba(255,255,255,.94);
+  backdrop-filter: saturate(150%) blur(6px);
+}
+.topbar .wrap { display: flex; align-items: baseline; gap: 28px; height: 56px; }
+.brand {
+  font-family: var(--serif); font-size: 18px; color: var(--ink);
+  border: 0; letter-spacing: .01em;
+}
+.topbar nav { margin-left: auto; display: flex; gap: 22px; }
+.topbar nav a {
+  border: 0; color: var(--muted); font-size: 14px;
+  text-transform: uppercase; letter-spacing: .08em;
+}
+.topbar nav a:hover, .topbar nav a[aria-current="page"] { color: var(--ink); }
+
+/* ---------- 头部名片 ---------- */
+.hero { display: grid; grid-template-columns: 168px 1fr; gap: 32px; padding: 48px 0 40px; }
+.hero img { width: 168px; height: 224px; object-fit: cover; border-radius: 2px; display: block; }
+.hero h1 {
+  font-family: var(--serif); font-weight: 400; font-size: 36px;
+  color: var(--ink); margin: 0 0 2px; line-height: 1.15;
+}
+.hero .han { font-size: 20px; color: var(--muted); font-family: var(--serif); }
+.hero .role { margin: 6px 0 14px; color: var(--ink); }
+.meta { font-size: 14.5px; color: var(--muted); line-height: 1.7; }
+.meta strong { color: var(--body); font-weight: 600; }
+.idlinks { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 10px; }
+.idlinks a {
+  border: 1px solid var(--rule); border-radius: 999px; padding: 3px 12px;
+  font-size: 13px; color: var(--body); background: var(--panel);
+}
+.idlinks a:hover { border-color: var(--link); color: var(--link); }
+
+/* ---------- 区块 ---------- */
+section { padding: 30px 0; border-top: 1px solid var(--rule); }
+h2 {
+  font-family: var(--sans); font-size: 12px; font-weight: 700;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--muted);
+  margin: 0 0 16px;
+}
+h3 { font-family: var(--serif); font-weight: 400; font-size: 20px; color: var(--ink); margin: 26px 0 12px; }
+p { margin: 0 0 14px; }
+
+.plainlist { list-style: none; margin: 0; padding: 0; }
+.plainlist li { padding: 7px 0; border-bottom: 1px solid var(--rule); display: flex; gap: 16px; }
+.plainlist li:last-child { border-bottom: 0; }
+.plainlist .when { font-family: var(--mono); font-size: 13px; color: var(--muted); white-space: nowrap; min-width: 92px; }
+
+/* ---------- 方向卡片 ---------- */
+.areas { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.area { border: 1px solid var(--rule); border-top: 3px solid var(--c); border-radius: 3px; padding: 14px 16px; }
+.area .n { font-family: var(--mono); font-size: 12px; color: var(--c); letter-spacing: .04em; }
+.area h4 { margin: 4px 0 6px; font-size: 15px; color: var(--ink); font-weight: 600; line-height: 1.35; }
+.area p { font-size: 13.5px; color: var(--muted); margin: 0; }
+
+/* ---------- 论文列表（签名元素：左侧年份刻度） ---------- */
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+.filters button {
+  font: inherit; font-size: 13.5px; cursor: pointer;
+  background: var(--paper); color: var(--body);
+  border: 1px solid var(--rule); border-radius: 999px; padding: 4px 14px;
+}
+.filters button .dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  margin-right: 7px; vertical-align: 1px; background: var(--c, var(--muted));
+}
+.filters button[aria-pressed="true"] { background: var(--ink); color: #fff; border-color: var(--ink); }
+.filters button:hover { border-color: var(--muted); }
+
+.pubs { list-style: none; margin: 0; padding: 0; }
+.pub {
+  display: grid; grid-template-columns: 62px 1fr; gap: 18px;
+  padding: 14px 0; border-bottom: 1px solid var(--rule);
+}
+.pub:last-child { border-bottom: 0; }
+.pub .year {
+  font-family: var(--mono); font-size: 13px; color: var(--muted);
+  padding-top: 2px; letter-spacing: .02em;
+}
+.pub .year::before {
+  content: ""; display: block; width: 22px; height: 2px;
+  background: var(--c, var(--rule)); margin-bottom: 6px;
+}
+.pub .t { color: var(--ink); font-weight: 600; line-height: 1.45; }
+.pub .a { font-size: 14px; color: var(--muted); margin-top: 3px; }
+.pub .a .me { color: var(--body); font-weight: 600; }
+.pub .v { font-size: 14px; color: var(--body); margin-top: 3px; font-style: italic; }
+.pub .x { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; font-size: 12.5px; }
+.pub .x a { border: 0; font-family: var(--mono); }
+.tag {
+  font-family: var(--mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--c); border: 1px solid var(--c); border-radius: 2px; padding: 0 5px; opacity: .85;
+}
+.cited { font-family: var(--mono); color: var(--muted); }
+.corr { color: var(--muted); }
+.newflag { font-family: var(--mono); font-size: 11px; color: #fff; background: var(--ink); padding: 0 5px; border-radius: 2px; }
+
+.empty { color: var(--muted); font-style: italic; padding: 24px 0; }
+
+/* ---------- 学生 / 专利 ---------- */
+.students { list-style: none; margin: 0; padding: 0; }
+.students li { padding: 9px 0; border-bottom: 1px solid var(--rule); }
+.students li:last-child { border-bottom: 0; }
+.students .nm { color: var(--ink); font-weight: 600; }
+.students .yr { font-family: var(--mono); font-size: 13px; color: var(--muted); margin-left: 8px; }
+.students .hn { display: block; font-size: 13.5px; color: var(--cat-em); }
+
+/* ---------- 页脚 ---------- */
+footer {
+  border-top: 1px solid var(--rule); margin-top: 40px; padding: 22px 0 48px;
+  font-size: 13px; color: var(--muted); font-family: var(--mono);
+  display: flex; flex-wrap: wrap; gap: 10px 24px;
+}
+footer a { color: var(--muted); border: 0; }
+footer a:hover { color: var(--link); }
+
+/* ---------- 响应式 ---------- */
+@media (max-width: 720px) {
+  .hero { grid-template-columns: 1fr; gap: 20px; padding: 32px 0 28px; }
+  .hero img { width: 132px; height: 176px; }
+  .areas { grid-template-columns: 1fr; }
+  .pub { grid-template-columns: 46px 1fr; gap: 12px; }
+  .topbar .wrap { gap: 14px; }
+  .topbar nav { gap: 14px; }
+  .topbar nav a { font-size: 12px; letter-spacing: .05em; }
+  .plainlist li { flex-direction: column; gap: 2px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+@media print {
+  .topbar, .filters { display: none; }
+  a { color: #000; border: 0; }
+}

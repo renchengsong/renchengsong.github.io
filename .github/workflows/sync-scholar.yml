@@ -1,0 +1,48 @@
+name: Sync Google Scholar
+
+on:
+  schedule:
+    # 每月 1 号 UTC 01:00（北京时间 09:00）
+    - cron: "0 1 1 * *"
+  workflow_dispatch:        # 也可以在 Actions 页面手动点一次
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: 抓取谷歌学术并归类
+        id: fetch
+        env:
+          SERPAPI_KEY:      ${{ secrets.SERPAPI_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python3 scripts/fetch_scholar.py
+
+      - name: 重新生成页面
+        run: python3 scripts/build.py
+
+      - name: 有变化就开一个 PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: scholar-sync
+          delete-branch: true
+          commit-message: "chore: sync publications from Google Scholar"
+          title: "论文同步：新增 ${{ steps.fetch.outputs.added }} 篇"
+          body-path: SYNC_REPORT.md
+          add-paths: |
+            data/publications.json
+            index.html
+            publications.html
+            students.html
+            sitemap.xml

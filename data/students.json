@@ -1,0 +1,75 @@
+{
+  "graduated": [
+    {
+      "name": "Minda Wang",
+      "year": 2019,
+      "position": "PLA Army Academy of Artillery and Air Defense, Hefei",
+      "honor": ""
+    },
+    {
+      "name": "Senle Zhang",
+      "year": 2020,
+      "position": "National Supercomputing Center, Tianjin",
+      "honor": "He was awarded the outstanding graduate student of Hefei University of Technology of 2020"
+    },
+    {
+      "name": "Jiji Li",
+      "year": 2021,
+      "position": "ZTE Co., Ltd., Nanjing",
+      "honor": "He was awarded the outstanding graduate student of Hefei University of Technology of 2021"
+    },
+    {
+      "name": "Huan Chen",
+      "year": 2021,
+      "position": "Anhui Wanyi Science and Technology Co., Ltd, Hefei",
+      "honor": "She was awarded the outstanding graduate student of Hefei University of Technology of 2021"
+    },
+    {
+      "name": "Youyou Huang",
+      "year": 2022,
+      "position": "Bank of Ningbo",
+      "honor": "She was awarded the outstanding graduate student of Anhui Province of 2022"
+    },
+    {
+      "name": "Qiao Zhou",
+      "year": 2022,
+      "position": "Bank of Ningbo",
+      "honor": ""
+    },
+    {
+      "name": "Han Wang",
+      "year": 2023,
+      "position": "Neusoft",
+      "honor": ""
+    },
+    {
+      "name": "Xiaoxue Sun",
+      "year": 2023,
+      "position": "Suzhou",
+      "honor": ""
+    },
+    {
+      "name": "Meilan Li",
+      "year": 2023,
+      "position": "Bank of China",
+      "honor": "She was awarded the outstanding graduate student of Anhui Province of 2023"
+    }
+  ],
+  "current": [
+    {
+      "name": "Cong Ren",
+      "stage": "在读",
+      "topic": "intelligent perception"
+    },
+    {
+      "name": "Shuai Gao",
+      "stage": "在读",
+      "topic": "intelligent perception"
+    },
+    {
+      "name": "Yanfeng Li",
+      "stage": "在读",
+      "topic": "intelligent perception"
+    }
+  ]
+}

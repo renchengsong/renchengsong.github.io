@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ p.person.name }}{% endblock %}</title>
+<meta name="description" content="{% block desc %}{{ p.person.name }} ({{ p.person.name_cn }}), Professor at Hefei University of Technology. Intelligent perception, vision-based vital sign monitoring, electromagnetic inverse scattering.{% endblock %}">
+<link rel="canonical" href="{{ site }}/{{ page_url }}">
+<link rel="stylesheet" href="assets/css/style.css">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:type" content="profile">
+<meta property="og:url" content="{{ site }}/{{ page_url }}">
+<script type="application/ld+json">{{ jsonld|safe }}</script>
+</head>
+<body>
+
+<div class="topbar"><div class="wrap">
+  <a class="brand" href="index.html">{{ p.person.name }}</a>
+  <nav>
+    <a href="index.html"{% if page == 'index' %} aria-current="page"{% endif %}>Home</a>
+    <a href="publications.html"{% if page == 'pubs' %} aria-current="page"{% endif %}>Publications</a>
+    <a href="students.html"{% if page == 'students' %} aria-current="page"{% endif %}>Students</a>
+    <a href="{{ p.person.cv }}">CV</a>
+  </nav>
+</div></div>
+
+<main class="wrap">
+{% block body %}{% endblock %}
+</main>
+
+<footer><div class="wrap" style="display:flex;flex-wrap:wrap;gap:10px 24px;padding:0">
+  <span>{{ p.person.email }}</span>
+  <a href="{{ p.person.links[0].url }}">Google Scholar</a>
+  <span>Last updated {{ built }}</span>
+  <span>{{ n_pubs }} publications</span>
+</div></footer>
+
+</body>
+</html>

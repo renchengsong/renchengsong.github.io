@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Students — {{ p.person.name }}{% endblock %}
+
+{% block body %}
+<section style="border-top:0">
+  <h2>Current students</h2>
+  <ul class="students">
+    {% for s in students.current %}
+    <li><span class="nm">{{ s.name }}</span><span class="yr">{{ s.stage }}</span>
+      {% if s.topic %}<div style="font-size:14px;color:var(--muted)">{{ s.topic }}</div>{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Graduated</h2>
+  <ul class="students">
+    {% for s in students.graduated|sort(attribute='year', reverse=True) %}
+    <li>
+      <span class="nm">{{ s.name }}</span><span class="yr">{{ s.year }}</span>
+      {% if s.position %}<div style="font-size:14px;color:var(--muted)">{{ s.position }}</div>{% endif %}
+      {% if s.honor %}<span class="hn">{{ s.honor }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Joining</h2>
+  <p>{{ p.recruiting|safe }}</p>
+</section>
+{% endblock %}

@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}{{ p.person.name }} — {{ p.person.title }}, Hefei University of Technology{% endblock %}
+
+{% block body %}
+<div class="hero">
+  <img src="{{ p.person.photo }}" alt="Portrait of {{ p.person.name }}" width="168" height="224">
+  <div>
+    <h1>{{ p.person.name }} <span class="han">{{ p.person.name_cn }}</span></h1>
+    <div class="role">{{ p.person.title }}</div>
+    <div class="meta">
+      {% for a in p.person.affiliations %}<a href="{{ a.url }}">{{ a.name }}</a><br>{% endfor %}
+      {% for line in p.person.office %}{{ line }}<br>{% endfor %}
+      <strong>Email:</strong> {{ p.person.email }}
+    </div>
+    <div class="idlinks">
+      {% for l in p.person.links %}<a href="{{ l.url }}">{{ l.name }}</a>{% endfor %}
+    </div>
+  </div>
+</div>
+
+{% if p.news %}
+<section>
+  <h2>News</h2>
+  <ul class="plainlist">
+    {% for n in p.news[:4] %}<li><span class="when">{{ n.date }}</span><span>{{ n.text }}</span></li>{% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section>
+  <h2>Biography</h2>
+  <p>{{ p.bio|safe }}</p>
+  <p>{{ p.bio_extra|safe }}</p>
+  <p>{{ p.recruiting|safe }}</p>
+</section>
+
+<section>
+  <h2>Research areas</h2>
+  <p>{{ p.research_interests|safe }}</p>
+  <div class="areas">
+    {% for c in p.site.categories %}
+    <div class="area" style="--c: {{ colors[c.key] }}">
+      <div class="n">{{ counts[c.key] }} papers</div>
+      <h4>{{ c.name }}</h4>
+      <p>{{ c.blurb }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section>
+  <h2>Selected publications</h2>
+  {% include "_publist.html" %}
+  <p style="margin-top:18px"><a href="publications.html">All {{ n_pubs }} publications &rarr;</a></p>
+</section>
+
+<section>
+  <h2>Grants</h2>
+  <ul class="plainlist">
+    {% for g in p.grants %}<li><span class="when">{{ g.period }}</span><span>{{ g.text }} <span class="corr">({{ g.role }})</span></span></li>{% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Patents &middot; {{ patents|length }} granted (US)</h2>
+  <ul class="plainlist">
+    {% for pt in patents[:6] %}<li><span class="when">{{ pt.number }}</span><span>{{ pt.title }}</span></li>{% endfor %}
+  </ul>
+  {% if patents|length > 6 %}<p style="margin-top:14px"><a href="publications.html#patents">All patents &rarr;</a></p>{% endif %}
+</section>
+
+<section>
+  <h2>Teaching</h2>
+  <ul class="plainlist">
+    {% for t in p.teaching %}<li><span class="when">{{ t.period }}</span><span>{{ t.name }}</span></li>{% endfor %}
+  </ul>
+</section>
+{% endblock %}

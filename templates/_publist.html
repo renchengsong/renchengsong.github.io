@@ -1,0 +1,21 @@
+<ol class="pubs">
+{% for x in pubs %}
+  <li class="pub" data-cat="{{ x.category }}" style="--c: {{ colors[x.category] }}">
+    <div class="year">{{ x.year or '—' }}</div>
+    <div>
+      <div class="t">{% if x.url %}<a href="{{ x.url }}">{{ x.title }}</a>{% else %}{{ x.title }}{% endif %}</div>
+      <div class="a">{{ x.authors_html|safe }}</div>
+      <div class="v">{{ x.venue }}{% if x.detail %}, {{ x.detail }}{% endif %}</div>
+      <div class="x">
+        <span class="tag">{{ cat_short[x.category] }}</span>
+        {% if x.corresponding %}<span class="corr">corresponding author</span>{% endif %}
+        {% if x.citations %}<span class="cited">{{ x.citations }} citations</span>{% endif %}
+        {% if x.pdf %}<a href="{{ x.pdf }}">PDF</a>{% endif %}
+        {% if x.needs_review %}<span class="newflag">check</span>{% endif %}
+      </div>
+    </div>
+  </li>
+{% else %}
+  <li class="empty">No publications in this category yet.</li>
+{% endfor %}
+</ol>
