@@ -32,8 +32,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:tkaPQYYpVKoC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2026traceable",
@@ -42,16 +41,15 @@
     "venue": "Optics & Laser Technology 193",
     "year": 2026,
     "detail": "114293: p. 2026",
-    "category": "em",
-    "category_source": "rule-fallback",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:XiVPGOgt02cC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2026adaptive",
@@ -60,7 +58,7 @@
     "venue": "arXiv preprint arXiv:2605.05694, 2026",
     "year": 2026,
     "detail": "",
-    "category": "hmi",
+    "category": "vision",
     "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
@@ -86,8 +84,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:PELIpwtuRlgC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2026hrvfusion",
@@ -104,8 +101,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:eMMeJKvmdy0C",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2026physics",
@@ -122,8 +118,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:JoZmwDi-zQgC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2026video",
@@ -133,15 +128,14 @@
     "year": 2026,
     "detail": "",
     "category": "vision",
-    "category_source": "rule-fallback",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:Mojj43d5GZwC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025measurement",
@@ -150,16 +144,15 @@
     "venue": "Measurement",
     "year": 2025,
     "detail": "119031: p. 2025",
-    "category": "vision",
-    "category_source": "rule-fallback",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:bnK-pcrLprsC",
     "citations": 10,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025meta",
@@ -176,8 +169,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:q3oQSFYPqjQC",
     "citations": 8,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025uncertainty",
@@ -186,7 +178,7 @@
     "venue": "Expert Systems with Applications 268",
     "year": 2025,
     "detail": "126286: p. 2025",
-    "category": "hmi",
+    "category": "fusion",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -194,8 +186,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:eflP2zaiRacC",
     "citations": 7,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025video",
@@ -212,8 +203,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:fQNAKQ3IYiAC",
     "citations": 7,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025dynamic",
@@ -222,16 +212,15 @@
     "venue": "IEEE Transactions on Instrumentation and Measurement 74, 1-11, 2025",
     "year": 2025,
     "detail": "",
-    "category": "vision",
-    "category_source": "rule-fallback",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:BrmTIyaxlBUC",
     "citations": 5,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025rppg",
@@ -248,8 +237,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:5ugPr518TE4C",
     "citations": 4,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025uncertainty",
@@ -266,8 +254,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:1qzjygNMrQYC",
     "citations": 3,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025video",
@@ -284,8 +271,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:HE397vMXCloC",
     "citations": 2,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025model",
@@ -294,7 +280,7 @@
     "venue": "IEEE Transactions on Instrumentation and Measurement 74, 1-12, 2025",
     "year": 2025,
     "detail": "",
-    "category": "vision",
+    "category": "fusion",
     "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
@@ -356,8 +342,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:olpn-zPbct0C",
     "citations": 1,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025noise",
@@ -374,8 +359,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:wbdj-CoPYUoC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025physics",
@@ -384,16 +368,15 @@
     "venue": "IEEE Transactions on Instrumentation and Measurement 74",
     "year": 2025,
     "detail": "1017812: p. 2025",
-    "category": "vision",
-    "category_source": "rule-fallback",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:t6usbXjVLHcC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025physics",
@@ -403,15 +386,14 @@
     "year": 2025,
     "detail": "",
     "category": "em",
-    "category_source": "rule-fallback",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:AXPGKjj_ei8C",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2025uncertainty",
@@ -421,15 +403,14 @@
     "year": 2025,
     "detail": "",
     "category": "vision",
-    "category_source": "rule-fallback",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:WA5NYHcadZ8C",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024uncertainty",
@@ -438,7 +419,7 @@
     "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
     "year": 2024,
     "detail": "",
-    "category": "vision",
+    "category": "fusion",
     "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
@@ -464,8 +445,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:p2g8aNsByqUC",
     "citations": 20,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024online",
@@ -474,7 +454,7 @@
     "venue": "IEEE Internet of Things Journal 11 (11), 20784-20796, 2024",
     "year": 2024,
     "detail": "",
-    "category": "hmi",
+    "category": "fusion",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -482,8 +462,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:u9iWguZQMMsC",
     "citations": 18,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024predicting",
@@ -500,8 +479,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:WbkHhVStYXYC",
     "citations": 16,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024inhomogeneous",
@@ -518,8 +496,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:vRqMK49ujn8C",
     "citations": 15,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024machine",
@@ -528,7 +505,7 @@
     "venue": "IEEE Transactions on Cognitive and Developmental Systems 16 (6), 1969-1981, 2024",
     "year": 2024,
     "detail": "",
-    "category": "hmi",
+    "category": "fusion",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -536,8 +513,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:l7t_Zn2s7bgC",
     "citations": 12,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024video",
@@ -547,15 +523,14 @@
     "year": 2024,
     "detail": "",
     "category": "vision",
-    "category_source": "rule-fallback",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:B3FOqHPlNUQC",
     "citations": 8,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024video",
@@ -572,8 +547,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:08ZZubdj9fEC",
     "citations": 8,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024human",
@@ -591,7 +565,9 @@
     "scholar_id": "GH-rVCUAAAAJ:Tiz5es2fbqcC",
     "citations": 6,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Human Detection in Realistic Through-the-Wall Environments U"
   },
   {
     "id": "anon2024preserving",
@@ -608,8 +584,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:XiSMed-E-HIC",
     "citations": 4,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024video",
@@ -618,7 +593,7 @@
     "venue": "IEEE Open Journal of the Computer Society 5, 660-670, 2024",
     "year": 2024,
     "detail": "",
-    "category": "hmi",
+    "category": "vision",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -626,8 +601,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:LPZeul_q3PIC",
     "citations": 3,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024feature",
@@ -636,7 +610,7 @@
     "venue": "IEEE Internet of Things Journal 12 (8), 10974-10986, 2024",
     "year": 2024,
     "detail": "",
-    "category": "hmi",
+    "category": "fusion",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -644,8 +618,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:D_sINldO8mEC",
     "citations": 2,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024video",
@@ -662,8 +635,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:4fKUyHm3Qg0C",
     "citations": 1,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024through",
@@ -672,16 +644,15 @@
     "venue": "2024 IEEE International Conference on Imaging Systems and Techniques (IST), 1-5, 2024",
     "year": 2024,
     "detail": "",
-    "category": "vision",
-    "category_source": "rule-fallback",
+    "category": "em",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:eJXPG6dFmWUC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024enhancement",
@@ -698,8 +669,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:K3LRdlH-MEoC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024human",
@@ -708,16 +678,15 @@
     "venue": "Available at SSRN",
     "year": 2024,
     "detail": "5034946: p. 2024",
-    "category": "vision",
-    "category_source": "rule-fallback",
+    "category": "em",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:VOx2b1Wkg3QC",
-    "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "citations": 6,
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024meta",
@@ -735,7 +704,9 @@
     "scholar_id": "GH-rVCUAAAAJ:tOudhMTPpwUC",
     "citations": 0,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Meta-learning-assisted untrained neural network for electrom"
   },
   {
     "id": "anon2024paper",
@@ -744,16 +715,15 @@
     "venue": "中国生物医学工程学报 43 (2), 129-142, 2024",
     "year": 2024,
     "detail": "",
-    "category": "vision",
-    "category_source": "rule-fallback",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:8AbLer7MMksC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "wei2023transformer",
@@ -762,8 +732,8 @@
     "venue": "Computers in Biology and Medicine",
     "year": 2023,
     "detail": "152: p. 106463",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -779,8 +749,8 @@
     "venue": "Engineering Applications of Artificial Intelligence",
     "year": 2023,
     "detail": "123: p. 106401",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -796,8 +766,8 @@
     "venue": "Measurement",
     "year": 2023,
     "detail": "206: p. 112278",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -813,8 +783,8 @@
     "venue": "IEEE Transactions on Industrial Informatics",
     "year": 2023,
     "detail": "",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -831,7 +801,7 @@
     "year": 2023,
     "detail": "",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -847,7 +817,7 @@
     "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-13, 2023",
     "year": 2023,
     "detail": "",
-    "category": "hmi",
+    "category": "fusion",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -855,8 +825,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:OU6Ihb5iCvQC",
     "citations": 26,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2023push",
@@ -874,7 +843,9 @@
     "scholar_id": "GH-rVCUAAAAJ:P5F9QuxV20EC",
     "citations": 20,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Push the Generalization Limitation of Learning Approaches by"
   },
   {
     "id": "song2023contact",
@@ -883,8 +854,8 @@
     "venue": "Measurement",
     "year": 2023,
     "detail": "p. 113604",
-    "category": "vision",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -901,7 +872,7 @@
     "year": 2023,
     "detail": "",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -918,7 +889,7 @@
     "year": 2023,
     "detail": "",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -943,7 +914,9 @@
     "scholar_id": "GH-rVCUAAAAJ:f2IySw72cVMC",
     "citations": 17,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Non-contact blood pressure estimation using BP-related cardi"
   },
   {
     "id": "mao2023online",
@@ -952,8 +925,8 @@
     "venue": "IEEE Sensors Journal",
     "year": 2023,
     "detail": "",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -970,7 +943,7 @@
     "year": 2023,
     "detail": "86: p. 105307",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1004,7 +977,7 @@
     "venue": "IEEE Sensors Letters 7 (12), 1-4, 2023",
     "year": 2023,
     "detail": "",
-    "category": "hmi",
+    "category": "fusion",
     "category_source": "rule",
     "corresponding": false,
     "selected": false,
@@ -1012,8 +985,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:SP6oXDckpogC",
     "citations": 6,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2023vidbp",
@@ -1030,8 +1002,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:abG-DnoFyZgC",
     "citations": 4,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "wang2023machine",
@@ -1041,14 +1012,15 @@
     "year": 2023,
     "detail": "12(12): p. 2623",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:pyW8ca7W8N0C",
     "citations": 2,
-    "added": "2026-08-06"
+    "added": "2026-08-06",
+    "needs_review": true
   },
   {
     "id": "anon2023iterative",
@@ -1065,8 +1037,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:uWQEDVKXjbEC",
     "citations": 1,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "han2023contact",
@@ -1076,13 +1047,13 @@
     "year": 2023,
     "detail": "",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
     "url": null,
-    "scholar_id": null,
-    "citations": 0,
+    "scholar_id": "GH-rVCUAAAAJ:f2IySw72cVMC",
+    "citations": 17,
     "added": "2026-08-06"
   },
   {
@@ -1093,13 +1064,13 @@
     "year": 2023,
     "detail": "",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
     "url": null,
-    "scholar_id": null,
-    "citations": 0,
+    "scholar_id": "GH-rVCUAAAAJ:P5F9QuxV20EC",
+    "citations": 20,
     "added": "2026-08-06"
   },
   {
@@ -1110,15 +1081,14 @@
     "year": 2023,
     "detail": "",
     "category": "vision",
-    "category_source": "rule-fallback",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:_xSYboBqXhAC",
     "citations": 0,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "li2022emotion",
@@ -1127,8 +1097,8 @@
     "venue": "Computers in Biology and Medicine",
     "year": 2022,
     "detail": "143: p. 105303",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1144,8 +1114,8 @@
     "venue": "Measurement",
     "year": 2022,
     "detail": "203: p. 111948",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1161,8 +1131,8 @@
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
     "year": 2022,
     "detail": "30: p. 1536-1547",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1179,7 +1149,7 @@
     "year": 2022,
     "detail": "60: p. 1-15",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1195,8 +1165,8 @@
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
     "year": 2022,
     "detail": "31: p. 180-191",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1212,8 +1182,8 @@
     "venue": "IEEE Sensors Journal",
     "year": 2022,
     "detail": "22(20): p. 19608-19619",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1238,7 +1208,9 @@
     "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
     "citations": 50,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Patient-specific seizure prediction from electroencephalogra"
   },
   {
     "id": "ye2022application",
@@ -1248,7 +1220,7 @@
     "year": 2022,
     "detail": "70(9): p. 8262-8275",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1264,8 +1236,8 @@
     "venue": "Science China Information Sciences",
     "year": 2022,
     "detail": "65(4): p. 140405",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1281,8 +1253,8 @@
     "venue": "IEEE Journal of Biomedical and Health Informatics",
     "year": 2022,
     "detail": "27(3): p. 1319-1330",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1299,7 +1271,7 @@
     "year": 2022,
     "detail": "70(8): p. 6218-6228",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1316,7 +1288,7 @@
     "year": 2022,
     "detail": "72: p. 1-12",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1333,7 +1305,7 @@
     "year": 2022,
     "detail": "70(11): p. 4980-4990",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1350,7 +1322,7 @@
     "year": 2022,
     "detail": "29: p. 2223-2227",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1367,7 +1339,7 @@
     "year": 2022,
     "detail": "(10.1109/JBHI.2022.3220656): p. 1 - 12",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1392,7 +1364,9 @@
     "scholar_id": "GH-rVCUAAAAJ:RHpTSmoSYBkC",
     "citations": 7,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "li2022spatial",
@@ -1402,7 +1376,7 @@
     "year": 2022,
     "detail": "22(5): p. 4338-4346",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1427,7 +1401,9 @@
     "scholar_id": "GH-rVCUAAAAJ:a0OBvERweLwC",
     "citations": 0,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "li2022patient",
@@ -1436,14 +1412,14 @@
     "venue": "IEEE Transactions on Cognitive and Developmental Systems",
     "year": 2022,
     "detail": "",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
     "url": null,
-    "scholar_id": null,
-    "citations": 0,
+    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
+    "citations": 50,
     "added": "2026-08-06"
   },
   {
@@ -1462,7 +1438,9 @@
     "scholar_id": "GH-rVCUAAAAJ:yD5IFk8b50cC",
     "citations": 0,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "song2021pulsegan",
@@ -1472,7 +1450,7 @@
     "year": 2021,
     "detail": "25(5): p. 1373-1384",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1488,8 +1466,8 @@
     "venue": "IEEE Transactions on Affective Computing",
     "year": 2021,
     "detail": "",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1506,7 +1484,7 @@
     "year": 2021,
     "detail": "138: p. 104877",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1523,7 +1501,7 @@
     "year": 2021,
     "detail": "7: p. 689-699",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1540,7 +1518,7 @@
     "year": 2021,
     "detail": "21(12): p. 13484-13494",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1557,7 +1535,7 @@
     "year": 2021,
     "detail": "60: p. 1-11",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1574,14 +1552,15 @@
     "year": 2021,
     "detail": "42(9): p. 095004",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:RGFaLdJalmkC",
     "citations": 12,
-    "added": "2026-08-06"
+    "added": "2026-08-06",
+    "needs_review": true
   },
   {
     "id": "li2021superpixel",
@@ -1591,7 +1570,7 @@
     "year": 2021,
     "detail": "19: p. 1-5",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1608,7 +1587,7 @@
     "year": 2021,
     "detail": "20(12): p. 2285-2289",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1625,14 +1604,15 @@
     "year": 2021,
     "detail": "189: p. 108296",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:ns9cj8rnVeAC",
     "citations": 4,
-    "added": "2026-08-06"
+    "added": "2026-08-06",
+    "needs_review": true
   },
   {
     "id": "anon2021optimized",
@@ -1650,7 +1630,9 @@
     "scholar_id": "GH-rVCUAAAAJ:e5wmG9Sq2KIC",
     "citations": 2,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2021quality",
@@ -1668,7 +1650,9 @@
     "scholar_id": "GH-rVCUAAAAJ:Wp0gIr-vW9MC",
     "citations": 0,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "tao2020based",
@@ -1677,8 +1661,8 @@
     "venue": "IEEE Transactions on Affective Computing",
     "year": 2020,
     "detail": "",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1694,8 +1678,8 @@
     "venue": "IEEE Journal of Biomedical and Health Informatics",
     "year": 2020,
     "detail": "25(2): p. 453-464",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1711,8 +1695,8 @@
     "venue": "Computers in Biology and Medicine",
     "year": 2020,
     "detail": "123: p. 103927",
-    "category": "hmi",
-    "category_source": "legacy",
+    "category": "fusion",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1729,7 +1713,7 @@
     "year": 2020,
     "detail": "69(10): p. 7411-7421",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1746,7 +1730,7 @@
     "year": 2020,
     "detail": "69(4): p. 2194-2208",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1763,7 +1747,7 @@
     "year": 2020,
     "detail": "116: p. 103535",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1780,7 +1764,7 @@
     "year": 2020,
     "detail": "21(4): p. 4900-4907",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1797,14 +1781,15 @@
     "year": 2020,
     "detail": "68(11): p. 4684-4693",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": true,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:M3NEmzRMIkIC",
     "citations": 76,
-    "added": "2026-08-06"
+    "added": "2026-08-06",
+    "needs_review": true
   },
   {
     "id": "zhang2020learning",
@@ -1814,7 +1799,7 @@
     "year": 2020,
     "detail": "20(24): p. 15007-15013",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1831,7 +1816,7 @@
     "year": 2020,
     "detail": "70: p. 1-13",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1848,7 +1833,7 @@
     "year": 2020,
     "detail": "512: p. 1424-1441",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1865,7 +1850,7 @@
     "year": 2020,
     "detail": "70: p. 1-10",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -1890,7 +1875,9 @@
     "scholar_id": "GH-rVCUAAAAJ:7PzlFSSx8tAC",
     "citations": 9,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "cheng2020exploring",
@@ -1900,7 +1887,7 @@
     "year": 2020,
     "detail": "",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -1925,7 +1912,9 @@
     "scholar_id": "GH-rVCUAAAAJ:qUcmZB5y_30C",
     "citations": 2,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2020dielectric",
@@ -1943,7 +1932,9 @@
     "scholar_id": "GH-rVCUAAAAJ:L8Ckcad2t8MC",
     "citations": 2,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2020modifying",
@@ -1961,7 +1952,9 @@
     "scholar_id": "GH-rVCUAAAAJ:QIV2ME_5wuYC",
     "citations": 1,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2020skin",
@@ -1979,7 +1972,9 @@
     "scholar_id": "GH-rVCUAAAAJ:dhFuZR0502QC",
     "citations": 0,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2019frequency",
@@ -1997,7 +1992,9 @@
     "scholar_id": "GH-rVCUAAAAJ:hC7cP41nSMkC",
     "citations": 22,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2019feasibility",
@@ -2014,8 +2011,7 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:j3f4tGmQtD8C",
     "citations": 5,
-    "added": "2026-08-07",
-    "needs_review": true
+    "added": "2026-08-07"
   },
   {
     "id": "anon2019electromagnetic",
@@ -2033,7 +2029,9 @@
     "scholar_id": "GH-rVCUAAAAJ:IWHjjKOFINEC",
     "citations": 3,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2019downhole",
@@ -2051,7 +2049,9 @@
     "scholar_id": "GH-rVCUAAAAJ:9ZlFYXVOiuMC",
     "citations": 1,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "anon2019distance",
@@ -2069,7 +2069,9 @@
     "scholar_id": "GH-rVCUAAAAJ:EUQCXRtRnyEC",
     "citations": 0,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "chen2018video",
@@ -2079,7 +2081,7 @@
     "year": 2018,
     "detail": "68(10): p. 3600-3615",
     "category": "vision",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -2104,7 +2106,9 @@
     "scholar_id": "GH-rVCUAAAAJ:mVmsd5A6BfQC",
     "citations": 54,
     "added": "2026-08-07",
-    "needs_review": true
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
     "id": "li2018hyperspectral",
@@ -2114,7 +2118,7 @@
     "year": 2018,
     "detail": "10(10): p. 1600",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2131,7 +2135,7 @@
     "year": 2015,
     "detail": "23(4): p. 601-616",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2148,7 +2152,7 @@
     "year": 2014,
     "detail": "(99): p. 1-10",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -2165,7 +2169,7 @@
     "year": 2014,
     "detail": "22(13): p. 16273–16281",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2182,7 +2186,7 @@
     "year": 2013,
     "detail": "(99): p. 1-5",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2199,7 +2203,7 @@
     "year": 2013,
     "detail": "(99): p. 1-1",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": true,
     "pdf": null,
@@ -2216,7 +2220,7 @@
     "year": 2012,
     "detail": "29(9): p. 1900-1905",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2233,7 +2237,7 @@
     "year": 2012,
     "detail": "20(3): p. 2206-2219",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2250,7 +2254,7 @@
     "year": 2012,
     "detail": "28(11): p. 115004",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2267,14 +2271,15 @@
     "year": 2012,
     "detail": "132(4): p. 2420-2426",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:9yKSN-GCB0IC",
     "citations": 3,
-    "added": "2026-08-06"
+    "added": "2026-08-06",
+    "needs_review": true
   },
   {
     "id": "song2012analysis",
@@ -2284,7 +2289,7 @@
     "year": 2012,
     "detail": "25(5-6): p. 417-427",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2301,7 +2306,7 @@
     "year": 2010,
     "detail": "27(9): p. 1722-1730",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2318,7 +2323,7 @@
     "year": 2010,
     "detail": "28(12): p. 1802-1810",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2335,7 +2340,7 @@
     "year": 2010,
     "detail": "34(1): p. 2-8",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2352,7 +2357,7 @@
     "year": 2009,
     "detail": "42(1): p. 59",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
@@ -2369,7 +2374,7 @@
     "year": 2009,
     "detail": "49(12): p. 1529-1536",
     "category": "em",
-    "category_source": "legacy",
+    "category_source": "rule",
     "corresponding": false,
     "selected": false,
     "pdf": null,
