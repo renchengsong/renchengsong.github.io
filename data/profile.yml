@@ -4,17 +4,17 @@ site:
   # 三个研究方向 = 论文自动归类的三个类别。key 不要随意改（数据文件里用它）
   categories:
     - key: vision
-      name: "Vision-based vital sign monitoring"
-      short: "Vision-based vital signs"
-      blurb: "Camera-based measurement of heart rate, respiration and blood pressure."
-    - key: hmi
-      name: "Human-machine natural interaction"
-      short: "Human-machine interaction"
-      blurb: "EEG/physiological signal decoding for emotion, seizure and interaction."
+      name: "Vision-based Intelligent Sensing"
+      short: "Vision sensing"
+      blurb: "Non-contact perception of physiological, behavioural and psychological states from visual information."
     - key: em
-      name: "Electromagnetic modeling and inverse scattering"
-      short: "EM inverse scattering"
-      blurb: "Learning-based solvers for full-wave forward and inverse problems."
+      name: "Electromagnetic Intelligent Sensing"
+      short: "EM sensing"
+      blurb: "Response modelling, computational imaging and inverse scattering for intrinsic target properties."
+    - key: fusion
+      name: "Multimodal Fusion & Physics-driven Sensing"
+      short: "Multimodal & physics-driven"
+      blurb: "Multimodal fusion and physics-guided learning for robust, reliable, interpretable sensing."
 
 person:
   name: "Rencheng Song"
@@ -55,21 +55,25 @@ bio: |
 bio_extra: |
   In recent years I have been the principal investigator for research projects including the
   National Natural Science Foundation of China, the Anhui Province Key Research and Development
-  Program, and the Anhui Provincial Natural Science Foundation. I have published over 70 SCI
-  papers, more than 30 as first or corresponding author, of which 4 are ESI highly cited papers.
+  Program, and the Anhui Provincial Natural Science Foundation. I have published over 100 SCI
+  papers, more than 40 as first or corresponding author, of which 4 are ESI highly cited papers.
   I hold 22 granted Chinese patents and 15 granted U.S. patents. I am an IEEE Senior Member, a
   communication reviewer for the NSFC, and a reviewer for over 30 international journals including
   IEEE TAP, IEEE MTT, IEEE TGRS, IEEE JBHI, IEEE TIM and Pattern Recognition.
 
 recruiting: |
-  I am looking for self-motivated master students interested in intelligent perception for
-  biomedical measurement or machine learning. Interested candidates are welcome to email me a resume.
+  I am looking for self-motivated master students interested in non-contact intelligent sensing,
+  physics-driven deep learning, or biomedical measurement. Interested candidates are welcome to
+  email me a resume.
 
 research_interests: |
-  Human-centered intelligent perception and natural human-machine interaction — in particular
-  computer-vision-based sensing of human vital signs, electromagnetic inverse-scattering imaging,
-  and natural human-machine interaction driven by multi-source information such as video and
-  physiological signals.
+  My research focuses on non-contact intelligent sensing and intelligent signal processing, with an
+  emphasis on vision-based sensing, electromagnetic sensing, multimodal fusion, and physics-driven
+  deep learning. By exploiting the complementary characteristics of visual and electromagnetic
+  modalities, I investigate the non-contact sensing of both the <i>apparent</i> and the
+  <i>intrinsic</i> properties of a target. My work centres on two fundamental challenges — response
+  modelling and robust perception in complex environments — following a problem-driven paradigm that
+  connects theoretical innovation, methodological development and real-world application.
 
 grants:
   - text: "National Natural Science Foundation of China"
@@ -94,5 +98,7 @@ teaching:
     period: "2022–present"
 
 news:
+  - date: "2026-08"
+    text: "Research areas reorganised around non-contact intelligent sensing; publication list cleaned up."
   - date: "2026-08"
     text: "Homepage rebuilt — publications now sync from Google Scholar automatically."
