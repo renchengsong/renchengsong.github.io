@@ -59,6 +59,7 @@ def main():
     patents = load("patents.json", [])
     conferences = (load("conferences.json", {}) or {}).get("conferences", [])
     students = load("students.json", {"current": [], "graduated": []})
+    resources = load("resources.json", {"intro": "", "datasets": [], "code": []})
 
     # 人工修正优先于自动抓取的一切字段
     for x in pubs:
@@ -81,7 +82,8 @@ def main():
 
     ctx = dict(p=p, site=p["site"]["url"].rstrip("/"), colors=COLORS, counts=counts,
                cat_short=cat_short, patents=patents, conferences=conferences,
-               students=students, n_pubs=len(pubs), built=date.today().isoformat(),
+               students=students, resources=resources,
+               n_pubs=len(pubs), built=date.today().isoformat(),
                jsonld=jsonld(p, len(pubs)))
 
     # 首页只放 selected；如果一篇都没标，退化为按引用量取前 12
@@ -92,6 +94,7 @@ def main():
     pages = [
         ("index.html", "index.html", dict(page="index", page_url="", pubs=sel)),
         ("publications.html", "publications.html", dict(page="pubs", page_url="publications.html", pubs=pubs)),
+        ("resources.html", "resources.html", dict(page="resources", page_url="resources.html", pubs=[])),
         ("students.html", "students.html", dict(page="students", page_url="students.html", pubs=[])),
     ]
     for tpl, out, extra in pages:
@@ -100,14 +103,16 @@ def main():
             f.write(rendered)
         print("写出", out)
 
-    write_sitemap(p, pubs)
+    write_sitemap(p, pubs, resources)
 
 
-def write_sitemap(p, pubs):
+def write_sitemap(p, pubs, resources=None):
     base = p["site"]["url"].rstrip("/")
     now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     urls = [(base + "/", "1.00"), (base + "/publications.html", "0.80"),
-            (base + "/students.html", "0.60")]
+            (base + "/resources.html", "0.80"), (base + "/students.html", "0.60")]
+    for d in (resources or {}).get("datasets", []):
+        urls.append((f"{base}/{d['url'].lstrip('/')}", "0.70"))
     for x in pubs:
         if x.get("pdf"):
             urls.append((f"{base}/{x['pdf'].lstrip('/')}", "0.50"))
@@ -123,3 +128,4 @@ def write_sitemap(p, pubs):
 
 if __name__ == "__main__":
     main()
+
