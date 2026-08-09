@@ -30,3 +30,4 @@ jobs:
           git add index.html publications.html resources.html students.html sitemap.xml
           git diff --staged --quiet || git commit -m "build: regenerate pages"
           git push
+
