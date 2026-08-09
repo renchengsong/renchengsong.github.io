@@ -16,7 +16,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 
-COLORS = {"vision": "#0e7c86", "hmi": "#7248a8", "em": "#b0611c"}
+COLORS = {"vision": "#0e7c86", "em": "#b0611c", "fusion": "#7248a8"}
 
 
 def load(name, default=None):
@@ -128,4 +128,3 @@ def write_sitemap(p, pubs, resources=None):
 
 if __name__ == "__main__":
     main()
-

@@ -23,6 +23,9 @@ PROFILE = os.path.join(ROOT, "data", "profile.yml")
 
 MIN_YEAR = int(os.getenv("MIN_YEAR", "2005"))
 
+# 谷歌学术会把专利也当论文返回，主页已有独立的 Patents 板块，这里直接跳过
+PATENT = re.compile(r"\bus patent\b|patent app", re.I)
+
 
 # ---------------------------------------------------------------- 工具
 
@@ -114,8 +117,9 @@ def from_scholarly(author_id):
     for pub in author.get("publications", []):
         bib = pub.get("bib", {})
         title = (bib.get("title") or "").strip()
-        # 列表页会把长标题截断成 "…"，只对这些补一次详情，尽量少发请求
-        if title.endswith(("…", "...")):
+        # 列表页不返回作者，且长标题会被截断成 "…"；两种情况都补一次详情
+        need_fill = title.endswith(("…", "...")) or not bib.get("author")
+        if need_fill:
             try:
                 pub = scholarly.fill(pub)
                 bib = pub.get("bib", {})
@@ -147,6 +151,10 @@ def main():
     key = os.getenv("SERPAPI_KEY")
     fetched = from_serpapi(author_id, key) if key else from_scholarly(author_id)
     fetched = [f for f in fetched if f["title"] and (f["year"] or 0) >= MIN_YEAR]
+    skipped = [f for f in fetched if PATENT.search(f"{f['venue']} {f['detail']} {f['title']}")]
+    fetched = [f for f in fetched if f not in skipped]
+    if skipped:
+        print(f"跳过 {len(skipped)} 条专利记录")
     print(f"谷歌学术返回 {len(fetched)} 条")
 
     existing = json.load(open(PUBS, encoding="utf-8")) if os.path.exists(PUBS) else []
