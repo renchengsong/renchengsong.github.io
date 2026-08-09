@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block title %}Datasets &amp; Codes — {{ p.person.name }}{% endblock %}
+{% block desc %}Public datasets and open-source code released by Rencheng Song's group at Hefei University of Technology, covering remote physiological measurement, deception detection and motion-robust rPPG.{% endblock %}
+
+{% block body %}
+<section style="border-top:0">
+  <h2>Datasets &amp; Codes</h2>
+  <p style="color:var(--muted);font-size:14.5px;max-width:62ch">{{ resources.intro }}</p>
+</section>
+
+<section id="datasets">
+  <h2>Datasets &middot; {{ resources.datasets|length }} released</h2>
+  {% for d in resources.datasets %}
+  <article class="res" style="--c: {{ colors[d.category] }}">
+    <div class="res-head">
+      <div>
+        <h3><a href="{{ d.url }}">{{ d.name }}</a></h3>
+        <div class="res-sub">{{ d.subtitle }}</div>
+      </div>
+      <a class="res-go" href="{{ d.url }}">Open &rarr;</a>
+    </div>
+    <p class="res-desc">{{ d.description }}</p>
+    <dl class="facts">
+      {% for f in d.facts %}
+      <div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>
+      {% endfor %}
+    </dl>
+    <div class="res-tags">
+      {% for t in d.tags %}<span class="chip">{{ t }}</span>{% endfor %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+
+<section id="code">
+  <h2>Codes</h2>
+  {% if resources.code %}
+  {% for c in resources.code %}
+  <article class="res" style="--c: {{ colors[c.category] }}">
+    <div class="res-head">
+      <div>
+        <h3><a href="{{ c.url }}">{{ c.name }}</a></h3>
+        <div class="res-sub">{{ c.subtitle }}</div>
+      </div>
+      <a class="res-go" href="{{ c.url }}">Repository &rarr;</a>
+    </div>
+    <p class="res-desc">{{ c.description }}</p>
+    <div class="res-tags">
+      {% for t in c.tags %}<span class="chip">{{ t }}</span>{% endfor %}
+    </div>
+  </article>
+  {% endfor %}
+  {% else %}
+  <p class="empty">Code accompanying our recent papers is being prepared for release and will appear here.</p>
+  {% endif %}
+</section>
+
+<section>
+  <h2>How to request a dataset</h2>
+  <ol class="plainlist" style="counter-reset:step">
+    <li><span class="when">Step 1</span><span>Open the dataset page and download the request form.</span></li>
+    <li><span class="when">Step 2</span><span>Print the form, sign it, and scan it.</span></li>
+    <li><span class="when">Step 3</span><span>Email the signed form to {{ p.person.email }} — a download link will be sent back to you.</span></li>
+  </ol>
+  <p style="margin-top:16px;color:var(--muted);font-size:14px">
+    Datasets are provided for non-commercial academic research only. If they help your work, please cite the
+    corresponding paper listed on each dataset page.
+  </p>
+</section>
+{% endblock %}
