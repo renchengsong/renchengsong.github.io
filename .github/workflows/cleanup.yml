@@ -1,0 +1,40 @@
+name: Cleanup publications
+
+# 手动触发的一次性清洗：去重、剔专利、合并预印本、按新方向重分类。
+# 结果以 PR 形式提交，确认后合并。
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: 清洗论文库
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python3 scripts/cleanup.py
+      - name: 重新生成页面
+        run: python3 scripts/build.py
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: cleanup-publications
+          delete-branch: true
+          commit-message: "chore: clean up and recategorize publications"
+          title: "论文库清洗：去重、剔专利、按新方向重分类"
+          body-path: CLEANUP_REPORT.md
+          add-paths: |
+            data/publications.json
+            index.html
+            publications.html
+            resources.html
+            students.html
+            sitemap.xml
