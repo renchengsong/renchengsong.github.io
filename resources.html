@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Datasets &amp; Codes — Rencheng Song</title>
+<meta name="description" content="Public datasets and open-source code released by Rencheng Song's group at Hefei University of Technology, covering remote physiological measurement, deception detection and motion-robust rPPG.">
+<link rel="canonical" href="https://renchengsong.github.io/resources.html">
+<link rel="stylesheet" href="assets/css/style.css">
+<meta property="og:title" content="Datasets &amp; Codes — Rencheng Song">
+<meta property="og:type" content="profile">
+<meta property="og:url" content="https://renchengsong.github.io/resources.html">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Person", "name": "Rencheng Song", "alternateName": "宋仁成", "jobTitle": "Professor", "email": "mailto:rcsong@hfut.edu.cn", "url": "https://renchengsong.github.io", "affiliation": {"@type": "Organization", "name": "Hefei University of Technology"}, "sameAs": ["https://scholar.google.com/citations?user=GH-rVCUAAAAJ&hl=en"], "knowsAbout": ["Vision-based vital sign monitoring", "Human-machine natural interaction", "Electromagnetic modeling and inverse scattering"], "description": "136 peer-reviewed publications."}</script>
+</head>
+<body>
+
+<div class="topbar"><div class="wrap">
+  <a class="brand" href="index.html">Rencheng Song</a>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="publications.html">Publications</a>
+    <a href="resources.html" aria-current="page">Datasets&amp;Codes</a>
+    <a href="students.html">Students</a>
+    <a href="pdfs/Song_cv_hfut.pdf">CV</a>
+  </nav>
+</div></div>
+
+<main class="wrap">
+<section style="border-top:0">
+  <h2>Datasets &amp; Codes</h2>
+  <p style="color:var(--muted);font-size:14.5px;max-width:62ch">Datasets and code released by our group. All datasets are available for non-commercial academic research — download the request form on each dataset page, sign it, and email it to rcsong@hfut.edu.cn.</p>
+</section>
+
+<section id="datasets">
+  <h2>Datasets &middot; 3 released</h2>
+  <article class="res" style="--c: #0e7c86">
+    <div class="res-head">
+      <div>
+        <h3><a href="datasets/LTHRV/index.html">LTHRV</a></h3>
+        <div class="res-sub">Video-based Pulse, Breathing, and Long-term HRV Analysis Dataset</div>
+      </div>
+      <a class="res-go" href="datasets/LTHRV/index.html">Open &rarr;</a>
+    </div>
+    <p class="res-desc">A multimodal physiological dataset for long-term heart rate variability analysis, containing synchronized RGB video, PPG and respiration signals. Subjects were recorded in a supine position under two conditions: natural breathing, and apnea with timed breath-holds that widen the range of heart rate variability.</p>
+    <dl class="facts">
+      <div><dt>Subjects</dt><dd>18 (12 M / 6 F), aged 21–25</dd></div>
+      <div><dt>Video</dt><dd>Logitech C920, 30 fps, 640×480, uncompressed YUV</dd></div>
+      <div><dt>Reference</dt><dd>Contec CMS50EA oximeter + HKH-11C respiration sensor</dd></div>
+      <div><dt>Protocol</dt><dd>Natural breathing and apnea, 15 min each</dd></div>
+    </dl>
+    <div class="res-tags">
+<span class="chip">rPPG</span><span class="chip">HRV</span><span class="chip">Respiration</span>    </div>
+  </article>
+  <article class="res" style="--c: #0e7c86">
+    <div class="res-head">
+      <div>
+        <h3><a href="datasets/PV3D/PV3D.html">PV3D</a></h3>
+        <div class="res-sub">Physiological-assisted Visual Deception Detection Dataset</div>
+      </div>
+      <a class="res-go" href="datasets/PV3D/PV3D.html">Open &rarr;</a>
+    </div>
+    <p class="res-desc">A multimodal deception detection dataset built around a simulated theft scenario, combining video, audio, heart rate, respiration, blood volume pulse and blood oxygen saturation. To our knowledge it is the first dataset that supports video deception detection, remote heart rate measurement and remote respiration measurement at the same time.</p>
+    <dl class="facts">
+      <div><dt>Subjects</dt><dd>101 participants — 48 deceptive, 53 truthful</dd></div>
+      <div><dt>Video</dt><dd>Logitech C920 HD Pro, 30 fps, 640×480, with audio</dd></div>
+      <div><dt>Reference</dt><dd>Contec CMS50E oximeter + HKH-11C respiration sensor</dd></div>
+      <div><dt>Size</dt><dd>Approx. 639 GB</dd></div>
+    </dl>
+    <div class="res-tags">
+<span class="chip">Deception detection</span><span class="chip">rPPG</span><span class="chip">Multimodal</span>    </div>
+  </article>
+  <article class="res" style="--c: #0e7c86">
+    <div class="res-head">
+      <div>
+        <h3><a href="datasets/BSIPL-motion/index.html">BSIPL-motion</a></h3>
+        <div class="res-sub">Biomedical Signal and Image Processing Laboratory Motion Scenario Dataset</div>
+      </div>
+      <a class="res-go" href="datasets/BSIPL-motion/index.html">Open &rarr;</a>
+    </div>
+    <p class="res-desc">A benchmark for motion-robust remote physiological measurement. Four motion scenarios — speaking, anterior–posterior movement, horizontal movement and random head rotation — are recorded with synchronized reference PPG under two lighting conditions.</p>
+    <dl class="facts">
+      <div><dt>Subjects</dt><dd>33 (26 M / 7 F), aged 21–25</dd></div>
+      <div><dt>Video</dt><dd>Logitech C920, 30 fps, 640×480, uncompressed YUV</dd></div>
+      <div><dt>Reference</dt><dd>Contec CMS50E oximeter, 60 Hz PPG</dd></div>
+      <div><dt>Scenarios</dt><dd>Speaking, anterior–posterior, horizontal, random rotation</dd></div>
+    </dl>
+    <div class="res-tags">
+<span class="chip">Motion robustness</span><span class="chip">rPPG</span><span class="chip">Benchmark</span>    </div>
+  </article>
+</section>
+
+<section id="code">
+  <h2>Codes</h2>
+  <p class="empty">Code accompanying our recent papers is being prepared for release and will appear here.</p>
+</section>
+
+<section>
+  <h2>How to request a dataset</h2>
+  <ol class="plainlist" style="counter-reset:step">
+    <li><span class="when">Step 1</span><span>Open the dataset page and download the request form.</span></li>
+    <li><span class="when">Step 2</span><span>Print the form, sign it, and scan it.</span></li>
+    <li><span class="when">Step 3</span><span>Email the signed form to rcsong@hfut.edu.cn — a download link will be sent back to you.</span></li>
+  </ol>
+  <p style="margin-top:16px;color:var(--muted);font-size:14px">
+    Datasets are provided for non-commercial academic research only. If they help your work, please cite the
+    corresponding paper listed on each dataset page.
+  </p>
+</section>
+</main>
+
+<footer><div class="wrap" style="display:flex;flex-wrap:wrap;gap:10px 24px;padding:0">
+  <span>rcsong@hfut.edu.cn</span>
+  <a href="https://scholar.google.com/citations?user=GH-rVCUAAAAJ&amp;hl=en">Google Scholar</a>
+  <span>Last updated 2026-08-09</span>
+  <span>136 publications</span>
+</div></footer>
+
+</body>
+</html>
