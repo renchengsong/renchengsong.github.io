@@ -1,0 +1,102 @@
+{
+  "intro": "Datasets and code released by our group. All datasets are available for non-commercial academic research — download the request form on each dataset page, sign it, and email it to rcsong@hfut.edu.cn.",
+  "datasets": [
+    {
+      "id": "lthrv",
+      "name": "LTHRV",
+      "subtitle": "Video-based Pulse, Breathing, and Long-term HRV Analysis Dataset",
+      "url": "datasets/LTHRV/index.html",
+      "year": 2024,
+      "category": "vision",
+      "description": "A multimodal physiological dataset for long-term heart rate variability analysis, containing synchronized RGB video, PPG and respiration signals. Subjects were recorded in a supine position under two conditions: natural breathing, and apnea with timed breath-holds that widen the range of heart rate variability.",
+      "facts": [
+        {
+          "label": "Subjects",
+          "value": "18 (12 M / 6 F), aged 21–25"
+        },
+        {
+          "label": "Video",
+          "value": "Logitech C920, 30 fps, 640×480, uncompressed YUV"
+        },
+        {
+          "label": "Reference",
+          "value": "Contec CMS50EA oximeter + HKH-11C respiration sensor"
+        },
+        {
+          "label": "Protocol",
+          "value": "Natural breathing and apnea, 15 min each"
+        }
+      ],
+      "tags": [
+        "rPPG",
+        "HRV",
+        "Respiration"
+      ]
+    },
+    {
+      "id": "pv3d",
+      "name": "PV3D",
+      "subtitle": "Physiological-assisted Visual Deception Detection Dataset",
+      "url": "datasets/PV3D/PV3D.html",
+      "year": 2024,
+      "category": "vision",
+      "description": "A multimodal deception detection dataset built around a simulated theft scenario, combining video, audio, heart rate, respiration, blood volume pulse and blood oxygen saturation. To our knowledge it is the first dataset that supports video deception detection, remote heart rate measurement and remote respiration measurement at the same time.",
+      "facts": [
+        {
+          "label": "Subjects",
+          "value": "101 participants — 48 deceptive, 53 truthful"
+        },
+        {
+          "label": "Video",
+          "value": "Logitech C920 HD Pro, 30 fps, 640×480, with audio"
+        },
+        {
+          "label": "Reference",
+          "value": "Contec CMS50E oximeter + HKH-11C respiration sensor"
+        },
+        {
+          "label": "Size",
+          "value": "Approx. 639 GB"
+        }
+      ],
+      "tags": [
+        "Deception detection",
+        "rPPG",
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "bsipl-motion",
+      "name": "BSIPL-motion",
+      "subtitle": "Biomedical Signal and Image Processing Laboratory Motion Scenario Dataset",
+      "url": "datasets/BSIPL-motion/index.html",
+      "year": 2023,
+      "category": "vision",
+      "description": "A benchmark for motion-robust remote physiological measurement. Four motion scenarios — speaking, anterior–posterior movement, horizontal movement and random head rotation — are recorded with synchronized reference PPG under two lighting conditions.",
+      "facts": [
+        {
+          "label": "Subjects",
+          "value": "33 (26 M / 7 F), aged 21–25"
+        },
+        {
+          "label": "Video",
+          "value": "Logitech C920, 30 fps, 640×480, uncompressed YUV"
+        },
+        {
+          "label": "Reference",
+          "value": "Contec CMS50E oximeter, 60 Hz PPG"
+        },
+        {
+          "label": "Scenarios",
+          "value": "Speaking, anterior–posterior, horizontal, random rotation"
+        }
+      ],
+      "tags": [
+        "Motion robustness",
+        "rPPG",
+        "Benchmark"
+      ]
+    }
+  ],
+  "code": []
+}
