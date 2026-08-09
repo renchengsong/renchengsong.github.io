@@ -55,6 +55,19 @@
 </section>
 
 <section>
+  <h2>Datasets &amp; Codes</h2>
+  <div class="res-mini">
+    {% for d in resources.datasets %}
+    <a href="{{ d.url }}" style="--c: {{ colors[d.category] }}">
+      <span class="nm">{{ d.name }}</span>
+      <span class="ds">{{ d.subtitle }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  <p style="margin-top:16px"><a href="resources.html">All datasets &amp; codes &rarr;</a></p>
+</section>
+
+<section>
   <h2>Grants</h2>
   <ul class="plainlist">
     {% for g in p.grants %}<li><span class="when">{{ g.period }}</span><span>{{ g.text }} <span class="corr">({{ g.role }})</span></span></li>{% endfor %}
