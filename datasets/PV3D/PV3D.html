@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PV3D Dataset</title>
+<style type="text/css">
+  body {
+    background-color: #fefefe;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;        /* 字体放大 */
+    line-height: 1.8;       /* 行高增加，阅读更舒适 */
+    color: #2c2c2c;
+    margin: 30px auto;
+    max-width: 940px;
+    padding: 0 15px;
+  }
+  h1, h2 {
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 0.4em;
+    margin-top: 1.5em;
+  }
+  h1 {
+    font-size: 2.8rem;
+    text-align: center;
+    margin-top: 0;
+  }
+  h2 {
+    font-size: 1.8rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.2em;
+  }
+  p {
+    margin-bottom: 1.5em;
+  }
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  a:hover, a:focus {
+    text-decoration: underline;
+    outline: none;
+  }
+  .images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 2em;
+  }
+  .images img {
+    max-width: 450px;
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  .images img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  }
+  .notice {
+    background-color: #e9f1ff;
+    border-left: 6px solid #007bff;
+    padding: 12px 18px;
+    margin-top: 30px;
+    font-weight: 600;
+    color: #0a3d91;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    max-width: 620px;
+  }
+  .notice strong {
+    font-weight: 700;
+    margin-right: 6px;
+  }
+  .manual pre {
+    background: #f0f0f5;
+    border-radius: 8px;
+    padding: 20px 24px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    overflow-x: auto;
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.05);
+    max-width: 600px;
+    margin-bottom: 2em;
+    user-select: text;
+  }
+  footer {
+    text-align: center;
+    padding: 30px 15px;
+    font-size: 1rem;
+    color: #999;
+    border-top: 1px solid #eee;
+    user-select: none;
+    margin-top: 4em;
+  }
+  @media (max-width: 600px) {
+    body {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+    h2 {
+      font-size: 1.5rem;
+    }
+    .images img {
+      max-width: 100%;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>PV3D Dataset</h1>
+<p style="text-align:center; font-size:1.3rem; font-weight: 300; margin-top: -10px;">
+  Physiological-assisted Visual Deception Detection Dataset
+</p>
+
+<section>
+  <h2>Description</h2>
+  <div class="images" aria-label="Dataset and data collection scenario images">
+    <img src="img/data_collection_scenarios.PNG" alt="Data Collection Scenarios: Participants with sensors and cameras" />
+    <img src="img/dataset.PNG" alt="Dataset Overview with different modalities" />
+  </div>
+  <p>
+    We propose a multi-modal video deception detection dataset, named PV3D, designed with a simulated theft experiment scenario.
+    The dataset includes video, audio, heart rate, respiration, blood volume pulse (BVP) signals, and blood oxygen saturation data.
+    A total of 101 students participated, among which 48 lied and 53 told the truth.
+    Video data were captured using Logitech C920 HD Pro cameras at 640×480 resolution and 30 FPS.
+    BVP, heart rate, and respiration signals were recorded synchronously using Contec CMS50E pulse oximeters and HKH-11C respiratory sensors.
+    To our knowledge, this is the first dataset that can be simultaneously used for video deception detection, remote heart rate monitoring, and remote respiration monitoring.
+    For detailed experimental procedures, please click <a href="./detal.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+  </p>
+
+<div class="notice" role="note" aria-live="polite" style="
+    white-space: nowrap;
+    overflow-x: auto;
+    max-width: 100%;
+    padding: 12px 18px;
+    background-color: #e9f1ff;
+    border-left: 6px solid #007bff;
+    font-weight: 600;
+    color: #0a3d91;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    user-select: none;
+    margin-top: 30px;
+">
+  <strong>Notice:</strong> Only data from 96 subjects were used in our study; subjects S97 to S101 are supplementary.
+</div>
+
+  <h2>Download</h2>
+  <p>
+    Download the <a href="./request.pdf" target="_blank" rel="noopener noreferrer">request form</a>, print it, sign it, and send it to
+    <a href="mailto:rcsong@hfut.edu.cn">rcsong@hfut.edu.cn</a>. Once received, we will share a download link. The dataset size is approximately 639 GB. Each folder contains all data for one subject.
+  </p>
+
+  <h2>Manual</h2>
+  <div class="manual">
+    <pre>
+S*  
+│── resp  
+│   └── XXX.csv  
+│── SPO2  
+│   ├── XXX.csv  
+│   └── XXX_wave.csv  
+│── XXX.avi  
+└── XXX.m4a
+    </pre>
+  </div>
+  <p>
+    Each subject corresponds to a folder S*, which includes resp, SPO2 folders, video and audio. The XXX.csv file in the resp folder contains respiratory reference data. The XXX.csv file in the SPO2 folder contains heart rate and blood oxygen saturation data, while XXX_wave.csv contains blood volume pulse signals. *∈{1,2,3...101}.
+  </p>
+
+  <h2>Citation</h2>
+  <p>
+    If you use this dataset in your research, please cite the following publication:<br />
+    S. Gao, L. Chen, Y. Fang, S. Xiao, H. Li, X. Yang, and R. Song, "Video-Based Deception Detection via Capsule Network With Channel-Wise Attention and Supervised Contrastive Learning," <em>IEEE Open J. Comput. Soc.</em>, vol. 5, pp. 660–670, 2024.
+  </p>
+</section>
+
+<footer>
+  &copy; 2024 PV3D Dataset. All rights reserved.
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>LTHRV Dataset</title>
+<style type="text/css">
+  body {
+    background-color: #fefefe;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #2c2c2c;
+    margin: 30px auto;
+    max-width: 940px;
+    padding: 0 15px;
+  }
+  h1, h2 {
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 0.4em;
+    margin-top: 1.5em;
+  }
+  h1 {
+    font-size: 2.8rem;
+    text-align: center;
+    margin-top: 0;
+  }
+  h2 {
+    font-size: 1.8rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.2em;
+  }
+  p {
+    margin-bottom: 1.5em;
+  }
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  a:hover, a:focus {
+    text-decoration: underline;
+    outline: none;
+  }
+  .images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 2em;
+  }
+  .images img {
+    max-width: 900px;
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  .images img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  }
+  .notice {
+    background-color: #e9f1ff;
+    border-left: 6px solid #007bff;
+    padding: 12px 18px;
+    margin-top: 30px;
+    font-weight: 600;
+    color: #0a3d91;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    max-width: 620px;
+  }
+  .notice strong {
+    font-weight: 700;
+    margin-right: 6px;
+  }
+  .manual pre {
+    background: #f0f0f5;
+    border-radius: 8px;
+    padding: 20px 24px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    overflow-x: auto;
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.05);
+    max-width: 600px;
+    margin-bottom: 2em;
+    user-select: text;
+  }
+  footer {
+    text-align: center;
+    padding: 30px 15px;
+    font-size: 1rem;
+    color: #999;
+    border-top: 1px solid #eee;
+    user-select: none;
+    margin-top: 4em;
+  }
+  @media (max-width: 600px) {
+    body {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+    h2 {
+      font-size: 1.5rem;
+    }
+    .images img {
+      max-width: 100%;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>LTHRV Dataset</h1>
+<p style="text-align:center; font-size:1.3rem; font-weight: 300; margin-top: -10px;">
+  Video-based Pulse, Breathing, and Long-term HRV Analysis Dataset.
+</p>
+
+<section>
+  <h2>Description</h2>
+  <div class="images" aria-label="Dataset Overview">
+    <img src="img/dataset_image.png" alt="Dataset Overview" />
+  </div>
+  <p>
+    We propose a multimodal physiological signal dataset called LTHRV, which contains high-quality RGB video, PPG signals, and breathing signals.
+    Data were collected in a controlled experimental setting, with subjects in a supine position performing two different experimental conditions:
+    natural breathing and apnea, each with a recording duration of 15 minutes.
+    Among them, under natural breathing conditions, subjects maintained independent and even breathing;
+    In apnea conditions, subjects hold their breath briefly at a set time point to enhance heart rate fluctuations and increase the range of heart rate variability (HRV).
+  </p>
+
+  <h2>Dataset Details</h2>
+  <div class="images" aria-label="Dataset and data collection scenario images">
+    <img src="img/dataset_setup.png" alt="Data Collection Setup" />
+  </div>
+  <p>
+    <b>Subjects:</b> 18 subjects (12 male, 6 female) with age range 21 to 25 years<br />
+    <b>Camera:</b> RGB Logitech C920 camera - 30fps, 640x480 pixels stored in an uncompressed YUV planar pixel format (approx. 15GB per video)<br />
+    <b>Reference signal:</b> Contec CMS50EA pulse oxygen meter + HKH-11C breathing sensor (synchronous collection of cardiopulmonary signals)<br />
+    <b>Activities:</b>
+  </p>
+  <ul>
+    <li><b>Natural breathing:</b> Participants lie flat and keep breathing normally, and the recording duration is 15 minutes.</li>
+    <li><b>Apnea:</b> At the 5th and 10th minutes, participants held their breath (BH) for 20 seconds each and kept breathing normally for the rest of the time.</li>
+  </ul>
+
+  <h2>Download</h2>
+  <p>
+    Download the <a href="./request.pdf" target="_blank" rel="noopener noreferrer">request form</a>, print it, sign it, and send it to
+    <a href="mailto:rcsong@hfut.edu.cn">rcsong@hfut.edu.cn</a>. Once received, we will share a download link. The dataset size is approximately 540 GB. It is distributed in a single file compressed with a 7zip program.
+  </p>
+
+  <h2>Manual</h2>
+  <div class="manual">
+    <pre>
+RawData/
+||---apnea/
+||------s*/ 
+||----------spo2/
+||--------------wave.csv
+||----------resp/
+||--------------resp.csv
+||----------video.avi
+||---normal/
+||------s*/ 
+||----------spo2/
+||--------------wave.csv
+||----------resp/
+||--------------resp.csv
+||----------video.avi
+    </pre>
+  </div>
+  <p>
+    where <b>* </b> is the subject ID (<b>*</b> ∈ {1,2,...,15} ),
+    and the data is categorized into <b>Apnea</b> and <b>Normal</b> experimental conditions.
+    Each subject's data includes <b>video.avi</b> (RGB video), <b>wave.csv</b> (blood volume pulse signal), and <b>resp.csv</b> (respiratory signal).
+  </p>
+
+  <h2>Citation</h2>
+  <p>
+    If you use this dataset in your research, please cite the following publication:<br />
+	X. Yao, R. Song, J. Cheng, C. Li, and X. Chen, “HRVFusion: Video-based Long-Term Heart Rate Variability Measurement with Conditional Diffusion Models,” IEEE Trans. Multimedia, in publication.
+  </p>
+<!--
+</section>
+
+<footer>
+  &copy; 2025 LTHRV Dataset. All rights reserved.
+</footer>
+-->
+
+</body>
+</html>
