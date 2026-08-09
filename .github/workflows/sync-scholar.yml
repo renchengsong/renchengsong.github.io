@@ -44,5 +44,7 @@ jobs:
             data/publications.json
             index.html
             publications.html
+            resources.html
             students.html
             sitemap.xml
+
