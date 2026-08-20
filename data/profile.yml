@@ -45,28 +45,8 @@ scholar:
 
 bio: |
   I am a Professor at the School of Instrument Science and Opto-electronics Engineering,
-  Hefei University of Technology. I received my B.S. degree from Jilin University, Changchun,
-  China, in 2005, and my Ph.D. degree from Zhejiang University, Hangzhou, China in 2010, both
-  in computational mathematics. From 2010 to 2012, I was a Research Fellow in Prof.
-  <a href="https://www.ece.nus.edu.sg/stfpage/elechenx/">Xudong Chen</a>'s group at the National
-  University of Singapore. From 2013 to 2017, I was a Principal Scientist with the Sensor Physics
-  group at Halliburton, Singapore. Since May 2017, I have been with Hefei University of Technology.
-
-bio_extra: |
-  In recent years I have been the principal investigator for research projects including the
-  National Natural Science Foundation of China, the Anhui Province Key Research and Development
-  Program, and the Anhui Provincial Natural Science Foundation. I have published over 100 SCI
-  papers, more than 40 as first or corresponding author, of which 4 are ESI highly cited papers.
-  I hold 22 granted Chinese patents and 15 granted U.S. patents. I am an IEEE Senior Member, a
-  communication reviewer for the NSFC, and a reviewer for over 30 international journals including
-  IEEE TAP, IEEE MTT, IEEE TGRS, IEEE JBHI, IEEE TIM and Pattern Recognition.
-
-recruiting: |
-  I am looking for self-motivated master students interested in non-contact intelligent sensing,
-  physics-driven deep learning, or biomedical measurement. Interested candidates are welcome to
-  email me a resume.
-
-research_interests: |
+  Hefei University of Technology. 
+  
   My research focuses on non-contact intelligent sensing and intelligent signal processing, with an
   emphasis on vision-based sensing, electromagnetic sensing, multimodal fusion, and physics-driven
   deep learning. By exploiting the complementary characteristics of visual and electromagnetic
@@ -74,6 +54,11 @@ research_interests: |
   <i>intrinsic</i> properties of a target. My work centres on two fundamental challenges — response
   modelling and robust perception in complex environments — following a problem-driven paradigm that
   connects theoretical innovation, methodological development and real-world application.
+
+recruiting: |
+  I am looking for self-motivated master students interested in non-contact intelligent sensing,
+  physics-driven deep learning, or biomedical measurement. Interested candidates are welcome to
+  email me a resume.
 
 grants:
   - text: "National Natural Science Foundation of China"
