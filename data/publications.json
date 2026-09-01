@@ -18,6 +18,23 @@
     "needs_review": true
   },
   {
+    "id": "anon2026traceable",
+    "title": "A traceable uncertainty propagation framework for multi-frame super-resolution reconstruction based on subpixel displacement sequences",
+    "authors": "",
+    "venue": "Optics & Laser Technology 193",
+    "year": 2026,
+    "detail": "114293: p. 2026",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:XiVPGOgt02cC",
+    "citations": 1,
+    "added": "2026-08-07"
+  },
+  {
     "id": "anon2026physics",
     "title": "A Physics-Constrained Neural Network for Electromagnetic Inverse Scattering Imaging",
     "authors": "",
@@ -35,21 +52,22 @@
     "added": "2026-08-07"
   },
   {
-    "id": "anon2026traceable",
-    "title": "A traceable uncertainty propagation framework for multi-frame super-resolution reconstruction based on subpixel displacement sequences",
-    "authors": "",
-    "venue": "Optics & Laser Technology 193",
+    "id": "guo2026adaptive",
+    "title": "Adaptive Kinematic Masking for Urban Human Activity Recognition Using UWB Radar: A Sim2Real Approach",
+    "authors": "Guo, Yuchao., Naike. Du, Rencheng. Song, and Xiuzhu. Ye",
+    "venue": "IEEE Signal Processing Letters, 2026",
     "year": 2026,
-    "detail": "114293: p. 2026",
-    "category": "fusion",
-    "category_source": "rule",
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:XiVPGOgt02cC",
+    "scholar_id": "GH-rVCUAAAAJ:dTyEYWd-f8wC",
     "citations": 0,
-    "added": "2026-08-07"
+    "added": "2026-09-01",
+    "needs_review": true
   },
   {
     "id": "anon2026adaptive",
@@ -67,6 +85,24 @@
     "scholar_id": "GH-rVCUAAAAJ:_B80troHkn4C",
     "citations": 0,
     "added": "2026-08-07",
+    "needs_review": true
+  },
+  {
+    "id": "ding2026dynamic",
+    "title": "Dynamic uncertainty evaluation of axial displacement of optical scanning coordinate measuring machine based on neural network",
+    "authors": "Ding, Yinye., Chen. Wenhao, Zeyu. Yang, Rencheng. Song, Jin. Zhang, Weishi. Li, and Haojie. Xia",
+    "venue": "Measurement Science and Technology, 2026",
+    "year": 2026,
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:SdhP9T11ey4C",
+    "citations": 0,
+    "added": "2026-09-01",
     "needs_review": true
   },
   {
@@ -121,6 +157,42 @@
     "added": "2026-08-07"
   },
   {
+    "id": "xing2026uncertainty",
+    "title": "Uncertainty as Risk: A Plug-and-Play Evidence-Guided Framework with Error-Aligned Calibration for Medical Image Segmentation",
+    "authors": "Xing, Chaojie., Haolin. Zhan, Rencheng. Song, and Yu. Liu",
+    "venue": "Medical Image Analysis",
+    "year": 2026,
+    "detail": "104291: p. 2026",
+    "category": "fusion",
+    "category_source": "rule-fallback",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:eq2jaN3J8jMC",
+    "citations": 0,
+    "added": "2026-09-01",
+    "needs_review": true
+  },
+  {
+    "id": "li2026uncertainty",
+    "title": "Uncertainty-Guided Evidential Deep Learning Schemes in Full-Wave Inverse Scattering Problems",
+    "authors": "Li, Tingyu., Rencheng. Song, and Xiuzhu. Ye",
+    "venue": "2026 IEEE International Conference on Computational Electromagnetics (ICCEM …, 2026",
+    "year": 2026,
+    "detail": "",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:9vf0nzSNQJEC",
+    "citations": 0,
+    "added": "2026-09-01",
+    "needs_review": true
+  },
+  {
     "id": "anon2026video",
     "title": "Video-based cardiopulmonary coupling measurement: A feasibility study",
     "authors": "",
@@ -151,7 +223,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:bnK-pcrLprsC",
-    "citations": 10,
+    "citations": 11,
     "added": "2026-08-07"
   },
   {
@@ -185,6 +257,23 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:eflP2zaiRacC",
+    "citations": 8,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "anon2025uncertainty",
+    "title": "Uncertainty Quantification and Calibration in Full-Wave Inverse Scattering Problems With Evidential Neural Networks",
+    "authors": "",
+    "venue": "IEEE Transactions on Microwave Theory and Techniques 73 (9), 6304 -",
+    "year": 2025,
+    "detail": "6316: p. 2025",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:1qzjygNMrQYC",
     "citations": 7,
     "added": "2026-08-07"
   },
@@ -236,25 +325,26 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:5ugPr518TE4C",
-    "citations": 4,
+    "citations": 5,
     "added": "2026-08-07"
   },
   {
-    "id": "anon2025uncertainty",
-    "title": "Uncertainty Quantification and Calibration in Full-Wave Inverse Scattering Problems With Evidential Neural Networks",
+    "id": "anon2025model",
+    "title": "A Model for Quantifying and Propagating Uncertainty of Precise Time Measurement System With Tapped-Delay-Line Time-to-Digital Converters",
     "authors": "",
-    "venue": "IEEE Transactions on Microwave Theory and Techniques 73 (9), 6304 -",
+    "venue": "IEEE Transactions on Instrumentation and Measurement 74, 1-12, 2025",
     "year": 2025,
-    "detail": "6316: p. 2025",
-    "category": "em",
-    "category_source": "rule",
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule-fallback",
     "corresponding": false,
     "selected": false,
     "pdf": null,
     "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:1qzjygNMrQYC",
-    "citations": 3,
-    "added": "2026-08-07"
+    "scholar_id": "GH-rVCUAAAAJ:kRWSkSYxWN8C",
+    "citations": 2,
+    "added": "2026-08-07",
+    "needs_review": true
   },
   {
     "id": "anon2025video",
@@ -272,24 +362,6 @@
     "scholar_id": "GH-rVCUAAAAJ:HE397vMXCloC",
     "citations": 2,
     "added": "2026-08-07"
-  },
-  {
-    "id": "anon2025model",
-    "title": "A Model for Quantifying and Propagating Uncertainty of Precise Time Measurement System With Tapped-Delay-Line Time-to-Digital Converters",
-    "authors": "",
-    "venue": "IEEE Transactions on Instrumentation and Measurement 74, 1-12, 2025",
-    "year": 2025,
-    "detail": "",
-    "category": "fusion",
-    "category_source": "rule-fallback",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:kRWSkSYxWN8C",
-    "citations": 1,
-    "added": "2026-08-07",
-    "needs_review": true
   },
   {
     "id": "anon2025adaptive",
@@ -345,23 +417,6 @@
     "added": "2026-08-07"
   },
   {
-    "id": "anon2025noise",
-    "title": "Noise-resilient heart rate detection in automotive environments using orthogonal projection",
-    "authors": "",
-    "venue": "International Conference on Image, Signal Processing, and Pattern …, 2025",
-    "year": 2025,
-    "detail": "",
-    "category": "vision",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:wbdj-CoPYUoC",
-    "citations": 0,
-    "added": "2026-08-07"
-  },
-  {
     "id": "anon2025physics",
     "title": "Physics-Informed Evidential Network: A General Framework for Uncertainty Evaluation in Nonlinear Dynamic Measurement Systems",
     "authors": "",
@@ -375,6 +430,23 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:t6usbXjVLHcC",
+    "citations": 1,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "anon2025noise",
+    "title": "Noise-resilient heart rate detection in automotive environments using orthogonal projection",
+    "authors": "",
+    "venue": "International Conference on Image, Signal Processing, and Pattern …, 2025",
+    "year": 2025,
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:wbdj-CoPYUoC",
     "citations": 0,
     "added": "2026-08-07"
   },
@@ -426,7 +498,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:738O_yMBCRsC",
-    "citations": 28,
+    "citations": 30,
     "added": "2026-08-07",
     "needs_review": true
   },
@@ -444,7 +516,24 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:p2g8aNsByqUC",
-    "citations": 20,
+    "citations": 21,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "anon2024inhomogeneous",
+    "title": "Inhomogeneous media inverse scattering problem assisted by Swin transformer network",
+    "authors": "",
+    "venue": "IEEE Transactions on Microwave Theory and Techniques 72 (12), 6809-6820, 2024",
+    "year": 2024,
+    "detail": "",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:vRqMK49ujn8C",
+    "citations": 18,
     "added": "2026-08-07"
   },
   {
@@ -479,23 +568,6 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:WbkHhVStYXYC",
     "citations": 16,
-    "added": "2026-08-07"
-  },
-  {
-    "id": "anon2024inhomogeneous",
-    "title": "Inhomogeneous media inverse scattering problem assisted by Swin transformer network",
-    "authors": "",
-    "venue": "IEEE Transactions on Microwave Theory and Techniques 72 (12), 6809-6820, 2024",
-    "year": 2024,
-    "detail": "",
-    "category": "em",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:vRqMK49ujn8C",
-    "citations": 15,
     "added": "2026-08-07"
   },
   {
@@ -563,11 +635,28 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:Tiz5es2fbqcC",
-    "citations": 6,
+    "citations": 7,
     "added": "2026-08-07",
     "needs_review": true,
     "hidden": true,
     "hidden_reason": "duplicate of: Human Detection in Realistic Through-the-Wall Environments U"
+  },
+  {
+    "id": "anon2024feature",
+    "title": "Feature Unlearning for EEG-Based Seizure Prediction",
+    "authors": "",
+    "venue": "IEEE Internet of Things Journal 12 (8), 10974-10986, 2024",
+    "year": 2024,
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:D_sINldO8mEC",
+    "citations": 4,
+    "added": "2026-08-07"
   },
   {
     "id": "anon2024preserving",
@@ -601,23 +690,6 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:LPZeul_q3PIC",
     "citations": 3,
-    "added": "2026-08-07"
-  },
-  {
-    "id": "anon2024feature",
-    "title": "Feature Unlearning for EEG-Based Seizure Prediction",
-    "authors": "",
-    "venue": "IEEE Internet of Things Journal 12 (8), 10974-10986, 2024",
-    "year": 2024,
-    "detail": "",
-    "category": "fusion",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:D_sINldO8mEC",
-    "citations": 2,
     "added": "2026-08-07"
   },
   {
@@ -685,7 +757,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:VOx2b1Wkg3QC",
-    "citations": 6,
+    "citations": 0,
     "added": "2026-08-07"
   },
   {
@@ -739,7 +811,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:dfsIfKJdRG4C",
-    "citations": 140,
+    "citations": 146,
     "added": "2026-08-06"
   },
   {
@@ -756,7 +828,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:D03iK_w7-QYC",
-    "citations": 76,
+    "citations": 78,
     "added": "2026-08-06"
   },
   {
@@ -773,7 +845,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:fPk4N6BV_jEC",
-    "citations": 68,
+    "citations": 69,
     "added": "2026-08-06"
   },
   {
@@ -824,8 +896,59 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:OU6Ihb5iCvQC",
-    "citations": 26,
+    "citations": 27,
     "added": "2026-08-07"
+  },
+  {
+    "id": "wang2023push",
+    "title": "Push the Generalization Limitation of Learning Approaches by Multi-Domain Weight-Sharing for Full-Wave Inverse Scattering",
+    "authors": "Wang, Y., Z. Zong, S. He, R. Song, and Z. Wei",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "year": 2023,
+    "detail": "",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:P5F9QuxV20EC",
+    "citations": 21,
+    "added": "2026-08-06"
+  },
+  {
+    "id": "song2023uncertainty",
+    "title": "Uncertainty quantification for deep learning-based remote photoplethysmography",
+    "authors": "Song, R., H. Wang, H. Xia, J. Cheng, C. Li, and X. Chen",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "year": 2023,
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:UxriW0iASnsC",
+    "citations": 21,
+    "added": "2026-08-06"
+  },
+  {
+    "id": "song2023contact",
+    "title": "Non-contact human respiratory rate measurement based on two-level fusions of video and fmcw radar information",
+    "authors": "Song, R., C. Ren, J. Cheng, C. Li, and X. Yang",
+    "venue": "Measurement",
+    "year": 2023,
+    "detail": "p. 113604",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:dshw04ExmUIC",
+    "citations": 20,
+    "added": "2026-08-06"
   },
   {
     "id": "anon2023push",
@@ -848,40 +971,6 @@
     "hidden_reason": "duplicate of: Push the Generalization Limitation of Learning Approaches by"
   },
   {
-    "id": "song2023contact",
-    "title": "Non-contact human respiratory rate measurement based on two-level fusions of video and fmcw radar information",
-    "authors": "Song, R., C. Ren, J. Cheng, C. Li, and X. Yang",
-    "venue": "Measurement",
-    "year": 2023,
-    "detail": "p. 113604",
-    "category": "fusion",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:dshw04ExmUIC",
-    "citations": 19,
-    "added": "2026-08-06"
-  },
-  {
-    "id": "song2023uncertainty",
-    "title": "Uncertainty quantification for deep learning-based remote photoplethysmography",
-    "authors": "Song, R., H. Wang, H. Xia, J. Cheng, C. Li, and X. Chen",
-    "venue": "IEEE Transactions on Instrumentation and Measurement",
-    "year": 2023,
-    "detail": "",
-    "category": "vision",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:UxriW0iASnsC",
-    "citations": 19,
-    "added": "2026-08-06"
-  },
-  {
     "id": "xu2023physically",
     "title": "Physically Unrolling Network under Contraction Integral Equation for Limited-Aperture Inverse Scattering Problem",
     "authors": "Xu, K., Z. Qian, R. Song, X. Ye, N. Xu, X.-M. Pan, P. Zhao, S. Chen, G. Wang, and W. Li",
@@ -895,7 +984,24 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:nb7KW1ujOQ8C",
-    "citations": 18,
+    "citations": 19,
+    "added": "2026-08-06"
+  },
+  {
+    "id": "han2023contact",
+    "title": "Non-contact blood pressure estimation using BP-related cardiovascular knowledge: an uncalibrated method based on consumer-level camera",
+    "authors": "Han, X., X. Yang, S. Fang, R. Song, L. Li, and J. Zhang",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "year": 2023,
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:f2IySw72cVMC",
+    "citations": 17,
     "added": "2026-08-06"
   },
   {
@@ -949,7 +1055,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:1sJd4Hv_s6UC",
-    "citations": 8,
+    "citations": 9,
     "added": "2026-08-06"
   },
   {
@@ -1018,7 +1124,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:pyW8ca7W8N0C",
-    "citations": 2,
+    "citations": 3,
     "added": "2026-08-06",
     "needs_review": true
   },
@@ -1038,40 +1144,6 @@
     "scholar_id": "GH-rVCUAAAAJ:uWQEDVKXjbEC",
     "citations": 1,
     "added": "2026-08-07"
-  },
-  {
-    "id": "han2023contact",
-    "title": "Non-contact blood pressure estimation using BP-related cardiovascular knowledge: an uncalibrated method based on consumer-level camera",
-    "authors": "Han, X., X. Yang, S. Fang, R. Song, L. Li, and J. Zhang",
-    "venue": "IEEE Transactions on Instrumentation and Measurement",
-    "year": 2023,
-    "detail": "",
-    "category": "vision",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:f2IySw72cVMC",
-    "citations": 17,
-    "added": "2026-08-06"
-  },
-  {
-    "id": "wang2023push",
-    "title": "Push the Generalization Limitation of Learning Approaches by Multi-Domain Weight-Sharing for Full-Wave Inverse Scattering",
-    "authors": "Wang, Y., Z. Zong, S. He, R. Song, and Z. Wei",
-    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
-    "year": 2023,
-    "detail": "",
-    "category": "em",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:P5F9QuxV20EC",
-    "citations": 20,
-    "added": "2026-08-06"
   },
   {
     "id": "anon2023remote",
@@ -1104,7 +1176,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:2P1L_qKh6hAC",
-    "citations": 155,
+    "citations": 156,
     "added": "2026-08-06"
   },
   {
@@ -1121,7 +1193,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:ZHo1McVdvXMC",
-    "citations": 140,
+    "citations": 143,
     "added": "2026-08-06"
   },
   {
@@ -1138,7 +1210,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:g5m5HwL7SMYC",
-    "citations": 105,
+    "citations": 106,
     "added": "2026-08-06"
   },
   {
@@ -1155,7 +1227,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:HoB7MX3m0LUC",
-    "citations": 73,
+    "citations": 74,
     "added": "2026-08-06"
   },
   {
@@ -1172,7 +1244,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:zA6iFVUQeVQC",
-    "citations": 68,
+    "citations": 70,
     "added": "2026-08-06"
   },
   {
@@ -1190,6 +1262,23 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:pqnbT2bcN3wC",
     "citations": 61,
+    "added": "2026-08-06"
+  },
+  {
+    "id": "li2022patient",
+    "title": "Patient-specific seizure prediction from electroencephalogram signal via multi-channel feedback capsule network",
+    "authors": "Li, C., Y. Zhao, R. Song, X. Liu, R. Qian, and X. Chen",
+    "venue": "IEEE Transactions on Cognitive and Developmental Systems",
+    "year": 2022,
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
+    "citations": 50,
     "added": "2026-08-06"
   },
   {
@@ -1247,6 +1336,23 @@
     "added": "2026-08-06"
   },
   {
+    "id": "song2022learning",
+    "title": "Learning-based inversion method for solving electromagnetic inverse scattering with mixed boundary conditions",
+    "authors": "Song, R., Y. Huang, X. Ye, K. Xu, C. Li, and X. Chen",
+    "venue": "IEEE Transactions on Antennas and Propagation",
+    "year": 2022,
+    "detail": "70(8): p. 6218-6228",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": null,
+    "scholar_id": "GH-rVCUAAAAJ:vV6vV6tmYwMC",
+    "citations": 24,
+    "added": "2026-08-06"
+  },
+  {
     "id": "liu2022capsnet",
     "title": "Bi-CapsNet: A Binary Capsule Network for EEG-Based Emotion Recognition",
     "authors": "Liu, Y., Y. Wei, C. Li, J. Cheng, R. Song, and X. Chen",
@@ -1261,23 +1367,6 @@
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:cFHS6HbyZ2cC",
     "citations": 23,
-    "added": "2026-08-06"
-  },
-  {
-    "id": "song2022learning",
-    "title": "Learning-based inversion method for solving electromagnetic inverse scattering with mixed boundary conditions",
-    "authors": "Song, R., Y. Huang, X. Ye, K. Xu, C. Li, and X. Chen",
-    "venue": "IEEE Transactions on Antennas and Propagation",
-    "year": 2022,
-    "detail": "70(8): p. 6218-6228",
-    "category": "em",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:vV6vV6tmYwMC",
-    "citations": 22,
     "added": "2026-08-06"
   },
   {
@@ -1311,7 +1400,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:SeFeTyx0c_EC",
-    "citations": 16,
+    "citations": 17,
     "added": "2026-08-06"
   },
   {
@@ -1345,7 +1434,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:u_35RYKgDlwC",
-    "citations": 11,
+    "citations": 12,
     "added": "2026-08-06"
   },
   {
@@ -1406,23 +1495,6 @@
     "hidden_reason": "patent — 已在 Patents 板块单独列出"
   },
   {
-    "id": "li2022patient",
-    "title": "Patient-specific seizure prediction from electroencephalogram signal via multi-channel feedback capsule network",
-    "authors": "Li, C., Y. Zhao, R. Song, X. Liu, R. Qian, and X. Chen",
-    "venue": "IEEE Transactions on Cognitive and Developmental Systems",
-    "year": 2022,
-    "detail": "",
-    "category": "fusion",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
-    "citations": 50,
-    "added": "2026-08-06"
-  },
-  {
     "id": "anon2022system",
     "title": "System and methods for evaluating a formation using pixelated solutions of formation data",
     "authors": "",
@@ -1456,7 +1528,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:iH-uZ7U-co4C",
-    "citations": 309,
+    "citations": 310,
     "added": "2026-08-06"
   },
   {
@@ -1490,7 +1562,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:NaGl4SEjCO4C",
-    "citations": 85,
+    "citations": 86,
     "added": "2026-08-06"
   },
   {
@@ -1507,7 +1579,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:GnPB-g6toBAC",
-    "citations": 66,
+    "citations": 69,
     "added": "2026-08-06"
   },
   {
@@ -1541,7 +1613,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:O3NaXMp0MMsC",
-    "citations": 41,
+    "citations": 42,
     "added": "2026-08-06"
   },
   {
@@ -1668,7 +1740,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:JV2RwH3_ST0C",
-    "citations": 694,
+    "citations": 711,
     "added": "2026-08-06"
   },
   {
@@ -1685,7 +1757,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:r0BpntZqJG4C",
-    "citations": 285,
+    "citations": 287,
     "added": "2026-08-06"
   },
   {
@@ -1702,7 +1774,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:TFP_iSt0sucC",
-    "citations": 251,
+    "citations": 252,
     "added": "2026-08-06"
   },
   {
@@ -1719,7 +1791,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:4JMBOYKVnBMC",
-    "citations": 163,
+    "citations": 164,
     "added": "2026-08-06"
   },
   {
@@ -1736,7 +1808,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:blknAaTinKkC",
-    "citations": 133,
+    "citations": 134,
     "added": "2026-08-06"
   },
   {
@@ -1753,7 +1825,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:HDshCWvjkbEC",
-    "citations": 114,
+    "citations": 116,
     "added": "2026-08-06"
   },
   {
@@ -1770,7 +1842,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:hMod-77fHWUC",
-    "citations": 87,
+    "citations": 89,
     "added": "2026-08-06"
   },
   {
@@ -2087,7 +2159,7 @@
     "pdf": null,
     "url": null,
     "scholar_id": "GH-rVCUAAAAJ:hFOr9nPyWt4C",
-    "citations": 271,
+    "citations": 272,
     "added": "2026-08-06"
   },
   {
