@@ -22,7 +22,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: 抓取谷歌学术并归类
+      - name: 抓取谷歌学术、归类、写 News
         id: fetch
         env:
           SERPAPI_KEY:      ${{ secrets.SERPAPI_KEY }}
@@ -42,9 +42,9 @@ jobs:
           body-path: SYNC_REPORT.md
           add-paths: |
             data/publications.json
+            data/profile.yml
             index.html
             publications.html
             resources.html
             students.html
             sitemap.xml
-
