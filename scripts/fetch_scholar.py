@@ -16,6 +16,7 @@ from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from classify import classify
+from news import summarize, update_profile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PUBS = os.path.join(ROOT, "data", "publications.json")
@@ -190,8 +191,22 @@ def main():
     existing.sort(key=lambda x: (-(x.get("year") or 0), -(x.get("citations") or 0), x["title"]))
     json.dump(existing, open(PUBS, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 
+    # 有新论文时，往 profile.yml 的 news 里写一条摘要
+    news_line = summarize(added) if added else None
+    if news_line:
+        try:
+            update_profile(PROFILE, news_line)
+            print("News 已更新：" + news_line)
+        except Exception as e:                      # News 写失败不该让同步整体失败
+            print(f"  [news] 写入 profile.yml 失败，已跳过: {e}", file=sys.stderr)
+            news_line = None
+
     # 给 PR 正文用的摘要
     lines = [f"从谷歌学术同步：新增 **{len(added)}** 篇，更新引用数 **{updated}** 篇。", ""]
+    if news_line:
+        lines += [f"首页 News 自动加了一条：**{news_line}**",
+                  "措辞想改就直接编辑 `data/profile.yml`；删掉那条的 `auto: true`，"
+                  "以后同步就不会再覆盖它。", ""]
     for r in added:
         lines.append(f"- **{r['title']}** — {r['venue']}, {r['year']}  \n"
                      f"  归类 `{r['category']}`（依据：{r['category_source']}）")
@@ -207,3 +222,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
