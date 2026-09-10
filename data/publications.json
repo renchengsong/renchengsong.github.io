@@ -11,7 +11,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:Y5dfb0dijaUC",
     "scholar_id": "GH-rVCUAAAAJ:Y5dfb0dijaUC",
     "citations": 4,
     "added": "2026-08-07",
@@ -29,8 +29,25 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:XiVPGOgt02cC",
     "scholar_id": "GH-rVCUAAAAJ:XiVPGOgt02cC",
+    "citations": 1,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "anon2026hrvfusion",
+    "title": "HRVFusion: Video-based Long-Term Heart Rate Variability Measurement with Conditional Diffusion Models",
+    "authors": "",
+    "venue": "IEEE Transactions on Multimedia, 2026",
+    "year": 2026,
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eMMeJKvmdy0C",
+    "scholar_id": "GH-rVCUAAAAJ:eMMeJKvmdy0C",
     "citations": 1,
     "added": "2026-08-07"
   },
@@ -46,7 +63,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:tkaPQYYpVKoC",
     "scholar_id": "GH-rVCUAAAAJ:tkaPQYYpVKoC",
     "citations": 0,
     "added": "2026-08-07"
@@ -63,7 +80,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:dTyEYWd-f8wC",
     "scholar_id": "GH-rVCUAAAAJ:dTyEYWd-f8wC",
     "citations": 0,
     "added": "2026-09-01",
@@ -81,7 +98,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:_B80troHkn4C",
     "scholar_id": "GH-rVCUAAAAJ:_B80troHkn4C",
     "citations": 0,
     "added": "2026-08-07",
@@ -99,7 +116,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:SdhP9T11ey4C",
     "scholar_id": "GH-rVCUAAAAJ:SdhP9T11ey4C",
     "citations": 0,
     "added": "2026-09-01",
@@ -117,25 +134,8 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:PELIpwtuRlgC",
     "scholar_id": "GH-rVCUAAAAJ:PELIpwtuRlgC",
-    "citations": 0,
-    "added": "2026-08-07"
-  },
-  {
-    "id": "anon2026hrvfusion",
-    "title": "HRVFusion: Video-based Long-Term Heart Rate Variability Measurement with Conditional Diffusion Models",
-    "authors": "",
-    "venue": "IEEE Transactions on Multimedia, 2026",
-    "year": 2026,
-    "detail": "",
-    "category": "vision",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:eMMeJKvmdy0C",
     "citations": 0,
     "added": "2026-08-07"
   },
@@ -151,7 +151,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:JoZmwDi-zQgC",
     "scholar_id": "GH-rVCUAAAAJ:JoZmwDi-zQgC",
     "citations": 0,
     "added": "2026-08-07"
@@ -168,7 +168,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eq2jaN3J8jMC",
     "scholar_id": "GH-rVCUAAAAJ:eq2jaN3J8jMC",
     "citations": 0,
     "added": "2026-09-01",
@@ -186,7 +186,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:9vf0nzSNQJEC",
     "scholar_id": "GH-rVCUAAAAJ:9vf0nzSNQJEC",
     "citations": 0,
     "added": "2026-09-01",
@@ -204,7 +204,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:Mojj43d5GZwC",
     "scholar_id": "GH-rVCUAAAAJ:Mojj43d5GZwC",
     "citations": 0,
     "added": "2026-08-07"
@@ -221,7 +221,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:bnK-pcrLprsC",
     "scholar_id": "GH-rVCUAAAAJ:bnK-pcrLprsC",
     "citations": 11,
     "added": "2026-08-07"
@@ -238,7 +238,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:q3oQSFYPqjQC",
     "scholar_id": "GH-rVCUAAAAJ:q3oQSFYPqjQC",
     "citations": 8,
     "added": "2026-08-07"
@@ -255,7 +255,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eflP2zaiRacC",
     "scholar_id": "GH-rVCUAAAAJ:eflP2zaiRacC",
     "citations": 8,
     "added": "2026-08-07"
@@ -272,7 +272,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:1qzjygNMrQYC",
     "scholar_id": "GH-rVCUAAAAJ:1qzjygNMrQYC",
     "citations": 7,
     "added": "2026-08-07"
@@ -289,7 +289,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:fQNAKQ3IYiAC",
     "scholar_id": "GH-rVCUAAAAJ:fQNAKQ3IYiAC",
     "citations": 7,
     "added": "2026-08-07"
@@ -306,7 +306,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:BrmTIyaxlBUC",
     "scholar_id": "GH-rVCUAAAAJ:BrmTIyaxlBUC",
     "citations": 5,
     "added": "2026-08-07"
@@ -323,7 +323,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5ugPr518TE4C",
     "scholar_id": "GH-rVCUAAAAJ:5ugPr518TE4C",
     "citations": 5,
     "added": "2026-08-07"
@@ -340,7 +340,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:kRWSkSYxWN8C",
     "scholar_id": "GH-rVCUAAAAJ:kRWSkSYxWN8C",
     "citations": 2,
     "added": "2026-08-07",
@@ -358,7 +358,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:HE397vMXCloC",
     "scholar_id": "GH-rVCUAAAAJ:HE397vMXCloC",
     "citations": 2,
     "added": "2026-08-07"
@@ -375,7 +375,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:V3AGJWp-ZtQC",
     "scholar_id": "GH-rVCUAAAAJ:V3AGJWp-ZtQC",
     "citations": 1,
     "added": "2026-08-07",
@@ -393,7 +393,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:J-pR_7NvFogC",
     "scholar_id": "GH-rVCUAAAAJ:J-pR_7NvFogC",
     "citations": 1,
     "added": "2026-08-07",
@@ -411,7 +411,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:olpn-zPbct0C",
     "scholar_id": "GH-rVCUAAAAJ:olpn-zPbct0C",
     "citations": 1,
     "added": "2026-08-07"
@@ -428,7 +428,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:t6usbXjVLHcC",
     "scholar_id": "GH-rVCUAAAAJ:t6usbXjVLHcC",
     "citations": 1,
     "added": "2026-08-07"
@@ -445,7 +445,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:wbdj-CoPYUoC",
     "scholar_id": "GH-rVCUAAAAJ:wbdj-CoPYUoC",
     "citations": 0,
     "added": "2026-08-07"
@@ -462,7 +462,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:AXPGKjj_ei8C",
     "scholar_id": "GH-rVCUAAAAJ:AXPGKjj_ei8C",
     "citations": 0,
     "added": "2026-08-07"
@@ -479,7 +479,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:WA5NYHcadZ8C",
     "scholar_id": "GH-rVCUAAAAJ:WA5NYHcadZ8C",
     "citations": 0,
     "added": "2026-08-07"
@@ -496,7 +496,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:738O_yMBCRsC",
     "scholar_id": "GH-rVCUAAAAJ:738O_yMBCRsC",
     "citations": 30,
     "added": "2026-08-07",
@@ -514,7 +514,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:p2g8aNsByqUC",
     "scholar_id": "GH-rVCUAAAAJ:p2g8aNsByqUC",
     "citations": 21,
     "added": "2026-08-07"
@@ -531,7 +531,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:vRqMK49ujn8C",
     "scholar_id": "GH-rVCUAAAAJ:vRqMK49ujn8C",
     "citations": 18,
     "added": "2026-08-07"
@@ -548,7 +548,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:u9iWguZQMMsC",
     "scholar_id": "GH-rVCUAAAAJ:u9iWguZQMMsC",
     "citations": 18,
     "added": "2026-08-07"
@@ -565,7 +565,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:WbkHhVStYXYC",
     "scholar_id": "GH-rVCUAAAAJ:WbkHhVStYXYC",
     "citations": 16,
     "added": "2026-08-07"
@@ -582,7 +582,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:l7t_Zn2s7bgC",
     "scholar_id": "GH-rVCUAAAAJ:l7t_Zn2s7bgC",
     "citations": 12,
     "added": "2026-08-07"
@@ -599,7 +599,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:B3FOqHPlNUQC",
     "scholar_id": "GH-rVCUAAAAJ:B3FOqHPlNUQC",
     "citations": 8,
     "added": "2026-08-07"
@@ -616,7 +616,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:08ZZubdj9fEC",
     "scholar_id": "GH-rVCUAAAAJ:08ZZubdj9fEC",
     "citations": 8,
     "added": "2026-08-07"
@@ -633,7 +633,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:Tiz5es2fbqcC",
     "scholar_id": "GH-rVCUAAAAJ:Tiz5es2fbqcC",
     "citations": 7,
     "added": "2026-08-07",
@@ -653,7 +653,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:D_sINldO8mEC",
     "scholar_id": "GH-rVCUAAAAJ:D_sINldO8mEC",
     "citations": 4,
     "added": "2026-08-07"
@@ -670,7 +670,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:XiSMed-E-HIC",
     "scholar_id": "GH-rVCUAAAAJ:XiSMed-E-HIC",
     "citations": 4,
     "added": "2026-08-07"
@@ -687,7 +687,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:LPZeul_q3PIC",
     "scholar_id": "GH-rVCUAAAAJ:LPZeul_q3PIC",
     "citations": 3,
     "added": "2026-08-07"
@@ -704,7 +704,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4fKUyHm3Qg0C",
     "scholar_id": "GH-rVCUAAAAJ:4fKUyHm3Qg0C",
     "citations": 1,
     "added": "2026-08-07"
@@ -721,7 +721,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eJXPG6dFmWUC",
     "scholar_id": "GH-rVCUAAAAJ:eJXPG6dFmWUC",
     "citations": 0,
     "added": "2026-08-07"
@@ -738,7 +738,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:K3LRdlH-MEoC",
     "scholar_id": "GH-rVCUAAAAJ:K3LRdlH-MEoC",
     "citations": 0,
     "added": "2026-08-07"
@@ -755,7 +755,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:VOx2b1Wkg3QC",
     "scholar_id": "GH-rVCUAAAAJ:VOx2b1Wkg3QC",
     "citations": 0,
     "added": "2026-08-07"
@@ -772,7 +772,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:tOudhMTPpwUC",
     "scholar_id": "GH-rVCUAAAAJ:tOudhMTPpwUC",
     "citations": 0,
     "added": "2026-08-07",
@@ -792,7 +792,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5Ul4iDaHHb8C",
     "scholar_id": "GH-rVCUAAAAJ:8AbLer7MMksC",
     "citations": 0,
     "added": "2026-08-07"
@@ -809,9 +809,9 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:dfsIfKJdRG4C",
     "scholar_id": "GH-rVCUAAAAJ:dfsIfKJdRG4C",
-    "citations": 146,
+    "citations": 147,
     "added": "2026-08-06"
   },
   {
@@ -826,7 +826,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:D03iK_w7-QYC",
     "scholar_id": "GH-rVCUAAAAJ:D03iK_w7-QYC",
     "citations": 78,
     "added": "2026-08-06"
@@ -843,7 +843,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:fPk4N6BV_jEC",
     "scholar_id": "GH-rVCUAAAAJ:fPk4N6BV_jEC",
     "citations": 69,
     "added": "2026-08-06"
@@ -860,7 +860,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:CHSYGLWDkRkC",
     "scholar_id": "GH-rVCUAAAAJ:CHSYGLWDkRkC",
     "citations": 45,
     "added": "2026-08-06"
@@ -877,7 +877,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:b0M2c_1WBrUC",
     "scholar_id": "GH-rVCUAAAAJ:b0M2c_1WBrUC",
     "citations": 39,
     "added": "2026-08-06"
@@ -894,10 +894,27 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:OU6Ihb5iCvQC",
     "scholar_id": "GH-rVCUAAAAJ:OU6Ihb5iCvQC",
     "citations": 27,
     "added": "2026-08-07"
+  },
+  {
+    "id": "song2023uncertainty",
+    "title": "Uncertainty quantification for deep learning-based remote photoplethysmography",
+    "authors": "Song, R., H. Wang, H. Xia, J. Cheng, C. Li, and X. Chen",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "year": 2023,
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:UxriW0iASnsC",
+    "scholar_id": "GH-rVCUAAAAJ:UxriW0iASnsC",
+    "citations": 22,
+    "added": "2026-08-06"
   },
   {
     "id": "wang2023push",
@@ -917,21 +934,24 @@
     "added": "2026-08-06"
   },
   {
-    "id": "song2023uncertainty",
-    "title": "Uncertainty quantification for deep learning-based remote photoplethysmography",
-    "authors": "Song, R., H. Wang, H. Xia, J. Cheng, C. Li, and X. Chen",
-    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "id": "anon2023push",
+    "title": "Push the generalization limitation of learning approaches by multidomain weight-sharing for full-wave inverse scattering",
+    "authors": "",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing 61, 1-14, 2023",
     "year": 2023,
     "detail": "",
-    "category": "vision",
+    "category": "em",
     "category_source": "rule",
     "corresponding": false,
-    "selected": true,
+    "selected": false,
     "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:UxriW0iASnsC",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:P5F9QuxV20EC",
+    "scholar_id": "GH-rVCUAAAAJ:P5F9QuxV20EC",
     "citations": 21,
-    "added": "2026-08-06"
+    "added": "2026-08-07",
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Push the Generalization Limitation of Learning Approaches by"
   },
   {
     "id": "song2023contact",
@@ -945,30 +965,10 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:dshw04ExmUIC",
     "scholar_id": "GH-rVCUAAAAJ:dshw04ExmUIC",
     "citations": 20,
     "added": "2026-08-06"
-  },
-  {
-    "id": "anon2023push",
-    "title": "Push the generalization limitation of learning approaches by multidomain weight-sharing for full-wave inverse scattering",
-    "authors": "",
-    "venue": "IEEE Transactions on Geoscience and Remote Sensing 61, 1-14, 2023",
-    "year": 2023,
-    "detail": "",
-    "category": "em",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:P5F9QuxV20EC",
-    "citations": 20,
-    "added": "2026-08-07",
-    "needs_review": true,
-    "hidden": true,
-    "hidden_reason": "duplicate of: Push the Generalization Limitation of Learning Approaches by"
   },
   {
     "id": "xu2023physically",
@@ -982,7 +982,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:nb7KW1ujOQ8C",
     "scholar_id": "GH-rVCUAAAAJ:nb7KW1ujOQ8C",
     "citations": 19,
     "added": "2026-08-06"
@@ -1016,7 +1016,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:f2IySw72cVMC",
     "scholar_id": "GH-rVCUAAAAJ:f2IySw72cVMC",
     "citations": 17,
     "added": "2026-08-07",
@@ -1036,7 +1036,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:KxtntwgDAa4C",
     "scholar_id": "GH-rVCUAAAAJ:KxtntwgDAa4C",
     "citations": 17,
     "added": "2026-08-06"
@@ -1053,7 +1053,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:1sJd4Hv_s6UC",
     "scholar_id": "GH-rVCUAAAAJ:1sJd4Hv_s6UC",
     "citations": 9,
     "added": "2026-08-06"
@@ -1070,7 +1070,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:xtRiw3GOFMkC",
     "scholar_id": "GH-rVCUAAAAJ:xtRiw3GOFMkC",
     "citations": 7,
     "added": "2026-08-07",
@@ -1088,7 +1088,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:SP6oXDckpogC",
     "scholar_id": "GH-rVCUAAAAJ:SP6oXDckpogC",
     "citations": 6,
     "added": "2026-08-07"
@@ -1105,7 +1105,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:abG-DnoFyZgC",
     "scholar_id": "GH-rVCUAAAAJ:abG-DnoFyZgC",
     "citations": 4,
     "added": "2026-08-07"
@@ -1122,7 +1122,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:pyW8ca7W8N0C",
     "scholar_id": "GH-rVCUAAAAJ:pyW8ca7W8N0C",
     "citations": 3,
     "added": "2026-08-06",
@@ -1140,7 +1140,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:uWQEDVKXjbEC",
     "scholar_id": "GH-rVCUAAAAJ:uWQEDVKXjbEC",
     "citations": 1,
     "added": "2026-08-07"
@@ -1157,7 +1157,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:_xSYboBqXhAC",
     "scholar_id": "GH-rVCUAAAAJ:_xSYboBqXhAC",
     "citations": 0,
     "added": "2026-08-07"
@@ -1174,9 +1174,9 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:2P1L_qKh6hAC",
     "scholar_id": "GH-rVCUAAAAJ:2P1L_qKh6hAC",
-    "citations": 156,
+    "citations": 157,
     "added": "2026-08-06"
   },
   {
@@ -1191,9 +1191,9 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:ZHo1McVdvXMC",
     "scholar_id": "GH-rVCUAAAAJ:ZHo1McVdvXMC",
-    "citations": 143,
+    "citations": 144,
     "added": "2026-08-06"
   },
   {
@@ -1208,9 +1208,9 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:g5m5HwL7SMYC",
     "scholar_id": "GH-rVCUAAAAJ:g5m5HwL7SMYC",
-    "citations": 106,
+    "citations": 107,
     "added": "2026-08-06"
   },
   {
@@ -1225,7 +1225,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:HoB7MX3m0LUC",
     "scholar_id": "GH-rVCUAAAAJ:HoB7MX3m0LUC",
     "citations": 74,
     "added": "2026-08-06"
@@ -1242,7 +1242,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:zA6iFVUQeVQC",
     "scholar_id": "GH-rVCUAAAAJ:zA6iFVUQeVQC",
     "citations": 70,
     "added": "2026-08-06"
@@ -1259,10 +1259,30 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:pqnbT2bcN3wC",
     "scholar_id": "GH-rVCUAAAAJ:pqnbT2bcN3wC",
     "citations": 61,
     "added": "2026-08-06"
+  },
+  {
+    "id": "anon2022patient",
+    "title": "Patient-specific seizure prediction from electroencephalogram signal via multichannel feedback capsule network",
+    "authors": "",
+    "venue": "IEEE transactions on cognitive and developmental systems 15 (3), 1360-1370, 2022",
+    "year": 2022,
+    "detail": "",
+    "category": "hmi",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:3s1wT3WcHBgC",
+    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
+    "citations": 51,
+    "added": "2026-08-07",
+    "needs_review": true,
+    "hidden": true,
+    "hidden_reason": "duplicate of: Patient-specific seizure prediction from electroencephalogra"
   },
   {
     "id": "li2022patient",
@@ -1282,26 +1302,6 @@
     "added": "2026-08-06"
   },
   {
-    "id": "anon2022patient",
-    "title": "Patient-specific seizure prediction from electroencephalogram signal via multichannel feedback capsule network",
-    "authors": "",
-    "venue": "IEEE transactions on cognitive and developmental systems 15 (3), 1360-1370, 2022",
-    "year": 2022,
-    "detail": "",
-    "category": "hmi",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
-    "citations": 50,
-    "added": "2026-08-07",
-    "needs_review": true,
-    "hidden": true,
-    "hidden_reason": "duplicate of: Patient-specific seizure prediction from electroencephalogra"
-  },
-  {
     "id": "ye2022application",
     "title": "Application of generative adversarial network-based inversion algorithm in imaging 2-D lossy biaxial anisotropic scatterer",
     "authors": "Ye, X., N. Du, D. Yang, X. Yuan, R. Song, S. Sun, and D. Fang",
@@ -1313,7 +1313,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:M05iB0D1s5AC",
     "scholar_id": "GH-rVCUAAAAJ:M05iB0D1s5AC",
     "citations": 32,
     "added": "2026-08-06"
@@ -1330,7 +1330,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:ldfaerwXgEUC",
     "scholar_id": "GH-rVCUAAAAJ:ldfaerwXgEUC",
     "citations": 32,
     "added": "2026-08-06"
@@ -1347,7 +1347,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:vV6vV6tmYwMC",
     "scholar_id": "GH-rVCUAAAAJ:vV6vV6tmYwMC",
     "citations": 24,
     "added": "2026-08-06"
@@ -1364,7 +1364,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:cFHS6HbyZ2cC",
     "scholar_id": "GH-rVCUAAAAJ:cFHS6HbyZ2cC",
     "citations": 23,
     "added": "2026-08-06"
@@ -1381,9 +1381,9 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4OULZ7Gr8RgC",
     "scholar_id": "GH-rVCUAAAAJ:4OULZ7Gr8RgC",
-    "citations": 18,
+    "citations": 19,
     "added": "2026-08-06"
   },
   {
@@ -1398,7 +1398,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:SeFeTyx0c_EC",
     "scholar_id": "GH-rVCUAAAAJ:SeFeTyx0c_EC",
     "citations": 17,
     "added": "2026-08-06"
@@ -1415,7 +1415,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:rO6llkc54NcC",
     "scholar_id": "GH-rVCUAAAAJ:rO6llkc54NcC",
     "citations": 16,
     "added": "2026-08-06"
@@ -1432,7 +1432,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:u_35RYKgDlwC",
     "scholar_id": "GH-rVCUAAAAJ:u_35RYKgDlwC",
     "citations": 12,
     "added": "2026-08-06"
@@ -1469,7 +1469,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:70eg2SAEIzsC",
     "scholar_id": "GH-rVCUAAAAJ:70eg2SAEIzsC",
     "citations": 5,
     "added": "2026-08-06"
@@ -1526,9 +1526,9 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:iH-uZ7U-co4C",
     "scholar_id": "GH-rVCUAAAAJ:iH-uZ7U-co4C",
-    "citations": 310,
+    "citations": 315,
     "added": "2026-08-06"
   },
   {
@@ -1543,9 +1543,9 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:J_g5lzvAfSwC",
     "scholar_id": "GH-rVCUAAAAJ:J_g5lzvAfSwC",
-    "citations": 100,
+    "citations": 102,
     "added": "2026-08-06"
   },
   {
@@ -1560,7 +1560,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:NaGl4SEjCO4C",
     "scholar_id": "GH-rVCUAAAAJ:NaGl4SEjCO4C",
     "citations": 86,
     "added": "2026-08-06"
@@ -1577,7 +1577,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:GnPB-g6toBAC",
     "scholar_id": "GH-rVCUAAAAJ:GnPB-g6toBAC",
     "citations": 69,
     "added": "2026-08-06"
@@ -1594,7 +1594,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:BqipwSGYUEgC",
     "scholar_id": "GH-rVCUAAAAJ:BqipwSGYUEgC",
     "citations": 57,
     "added": "2026-08-06"
@@ -1611,7 +1611,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:O3NaXMp0MMsC",
     "scholar_id": "GH-rVCUAAAAJ:O3NaXMp0MMsC",
     "citations": 42,
     "added": "2026-08-06"
@@ -1628,7 +1628,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:RGFaLdJalmkC",
     "scholar_id": "GH-rVCUAAAAJ:RGFaLdJalmkC",
     "citations": 12,
     "added": "2026-08-06",
@@ -1646,7 +1646,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:RYcK_YlVTxYC",
     "scholar_id": "GH-rVCUAAAAJ:RYcK_YlVTxYC",
     "citations": 5,
     "added": "2026-08-06"
@@ -1663,7 +1663,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:lSLTfruPkqcC",
     "scholar_id": "GH-rVCUAAAAJ:lSLTfruPkqcC",
     "citations": 4,
     "added": "2026-08-06"
@@ -1680,7 +1680,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:ns9cj8rnVeAC",
     "scholar_id": "GH-rVCUAAAAJ:ns9cj8rnVeAC",
     "citations": 4,
     "added": "2026-08-06",
@@ -1738,9 +1738,9 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:JV2RwH3_ST0C",
     "scholar_id": "GH-rVCUAAAAJ:JV2RwH3_ST0C",
-    "citations": 711,
+    "citations": 716,
     "added": "2026-08-06"
   },
   {
@@ -1755,9 +1755,9 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:r0BpntZqJG4C",
     "scholar_id": "GH-rVCUAAAAJ:r0BpntZqJG4C",
-    "citations": 287,
+    "citations": 289,
     "added": "2026-08-06"
   },
   {
@@ -1772,9 +1772,9 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:TFP_iSt0sucC",
     "scholar_id": "GH-rVCUAAAAJ:TFP_iSt0sucC",
-    "citations": 252,
+    "citations": 253,
     "added": "2026-08-06"
   },
   {
@@ -1789,7 +1789,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4JMBOYKVnBMC",
     "scholar_id": "GH-rVCUAAAAJ:4JMBOYKVnBMC",
     "citations": 164,
     "added": "2026-08-06"
@@ -1806,7 +1806,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:blknAaTinKkC",
     "scholar_id": "GH-rVCUAAAAJ:blknAaTinKkC",
     "citations": 134,
     "added": "2026-08-06"
@@ -1823,7 +1823,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:HDshCWvjkbEC",
     "scholar_id": "GH-rVCUAAAAJ:HDshCWvjkbEC",
     "citations": 116,
     "added": "2026-08-06"
@@ -1840,7 +1840,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:hMod-77fHWUC",
     "scholar_id": "GH-rVCUAAAAJ:hMod-77fHWUC",
     "citations": 89,
     "added": "2026-08-06"
@@ -1857,7 +1857,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:M3NEmzRMIkIC",
     "scholar_id": "GH-rVCUAAAAJ:M3NEmzRMIkIC",
     "citations": 76,
     "added": "2026-08-06",
@@ -1875,7 +1875,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:k_IJM867U9cC",
     "scholar_id": "GH-rVCUAAAAJ:k_IJM867U9cC",
     "citations": 49,
     "added": "2026-08-06"
@@ -1892,7 +1892,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:YFjsv_pBGBYC",
     "scholar_id": "GH-rVCUAAAAJ:YFjsv_pBGBYC",
     "citations": 31,
     "added": "2026-08-06"
@@ -1909,7 +1909,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:TQgYirikUcIC",
     "scholar_id": "GH-rVCUAAAAJ:TQgYirikUcIC",
     "citations": 23,
     "added": "2026-08-06"
@@ -1926,7 +1926,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:NMxIlDl6LWMC",
     "scholar_id": "GH-rVCUAAAAJ:NMxIlDl6LWMC",
     "citations": 12,
     "added": "2026-08-06"
@@ -1963,7 +1963,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:isC4tDSrTZIC",
     "scholar_id": "GH-rVCUAAAAJ:isC4tDSrTZIC",
     "citations": 7,
     "added": "2026-08-06"
@@ -2080,7 +2080,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:j3f4tGmQtD8C",
     "scholar_id": "GH-rVCUAAAAJ:j3f4tGmQtD8C",
     "citations": 5,
     "added": "2026-08-07"
@@ -2157,9 +2157,9 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:hFOr9nPyWt4C",
     "scholar_id": "GH-rVCUAAAAJ:hFOr9nPyWt4C",
-    "citations": 272,
+    "citations": 273,
     "added": "2026-08-06"
   },
   {
@@ -2194,7 +2194,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:-f6ydRqryjwC",
     "scholar_id": "GH-rVCUAAAAJ:-f6ydRqryjwC",
     "citations": 24,
     "added": "2026-08-06"
@@ -2211,7 +2211,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:M3ejUd6NZC8C",
     "scholar_id": "GH-rVCUAAAAJ:M3ejUd6NZC8C",
     "citations": 8,
     "added": "2026-08-06"
@@ -2228,7 +2228,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4DMP91E08xMC",
     "scholar_id": "GH-rVCUAAAAJ:4DMP91E08xMC",
     "citations": 68,
     "added": "2026-08-06"
@@ -2245,7 +2245,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:aqlVkmm33-oC",
     "scholar_id": "GH-rVCUAAAAJ:aqlVkmm33-oC",
     "citations": 6,
     "added": "2026-08-06"
@@ -2262,7 +2262,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:IjCSPb-OGe4C",
     "scholar_id": "GH-rVCUAAAAJ:IjCSPb-OGe4C",
     "citations": 21,
     "added": "2026-08-06"
@@ -2279,7 +2279,7 @@
     "corresponding": false,
     "selected": true,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:kNdYIx-mwKoC",
     "scholar_id": "GH-rVCUAAAAJ:kNdYIx-mwKoC",
     "citations": 21,
     "added": "2026-08-06"
@@ -2296,7 +2296,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:Se3iqnhoufwC",
     "scholar_id": "GH-rVCUAAAAJ:Se3iqnhoufwC",
     "citations": 20,
     "added": "2026-08-06"
@@ -2313,7 +2313,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:qjMakFHDy7sC",
     "scholar_id": "GH-rVCUAAAAJ:qjMakFHDy7sC",
     "citations": 16,
     "added": "2026-08-06"
@@ -2330,7 +2330,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:UeHWp8X0CEIC",
     "scholar_id": "GH-rVCUAAAAJ:UeHWp8X0CEIC",
     "citations": 4,
     "added": "2026-08-06"
@@ -2347,7 +2347,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:9yKSN-GCB0IC",
     "scholar_id": "GH-rVCUAAAAJ:9yKSN-GCB0IC",
     "citations": 3,
     "added": "2026-08-06",
@@ -2365,7 +2365,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:Tyk-4Ss8FVUC",
     "scholar_id": "GH-rVCUAAAAJ:Tyk-4Ss8FVUC",
     "citations": 2,
     "added": "2026-08-06"
@@ -2382,7 +2382,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:2osOgNQ5qMEC",
     "scholar_id": "GH-rVCUAAAAJ:2osOgNQ5qMEC",
     "citations": 14,
     "added": "2026-08-06"
@@ -2399,7 +2399,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:d1gkVwhDpl0C",
     "scholar_id": "GH-rVCUAAAAJ:d1gkVwhDpl0C",
     "citations": 8,
     "added": "2026-08-06"
@@ -2416,7 +2416,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:u-x6o8ySG0sC",
     "scholar_id": "GH-rVCUAAAAJ:u-x6o8ySG0sC",
     "citations": 2,
     "added": "2026-08-06"
@@ -2433,7 +2433,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:u5HHmVD_uO8C",
     "scholar_id": "GH-rVCUAAAAJ:u5HHmVD_uO8C",
     "citations": 23,
     "added": "2026-08-06"
@@ -2450,7 +2450,7 @@
     "corresponding": false,
     "selected": false,
     "pdf": null,
-    "url": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:zYLM7Y9cAGgC",
     "scholar_id": "GH-rVCUAAAAJ:zYLM7Y9cAGgC",
     "citations": 12,
     "added": "2026-08-06"
