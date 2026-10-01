@@ -83,6 +83,9 @@ teaching:
     period: "2022–present"
 
 news:
+  - date: "2026-10"
+    text: "Two new papers published in Journal of Neural Engineering and IEEE IoT Journal."
+    auto: true
   - date: "2026-08"
     text: "Students attended PIERS and the Annual Conference of the Chinese Society of Instrumentation."
 
