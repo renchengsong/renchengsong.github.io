@@ -13,8 +13,26 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:Y5dfb0dijaUC",
     "scholar_id": "GH-rVCUAAAAJ:Y5dfb0dijaUC",
-    "citations": 5,
+    "citations": 7,
     "added": "2026-08-07",
+    "needs_review": true
+  },
+  {
+    "id": "xing2026uncertainty",
+    "title": "Uncertainty as Risk: A Plug-and-Play Evidence-Guided Framework with Error-Aligned Calibration for Medical Image Segmentation",
+    "authors": "Xing, Chaojie., Haolin. Zhan, Rencheng. Song, and Yu. Liu",
+    "venue": "Medical Image Analysis",
+    "year": 2026,
+    "detail": "104291: p. 2026",
+    "category": "fusion",
+    "category_source": "rule-fallback",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eq2jaN3J8jMC",
+    "scholar_id": "GH-rVCUAAAAJ:eq2jaN3J8jMC",
+    "citations": 2,
+    "added": "2026-09-01",
     "needs_review": true
   },
   {
@@ -52,6 +70,24 @@
     "added": "2026-08-07"
   },
   {
+    "id": "anon2026adaptive",
+    "title": "Adaptive Physical-Facial Representation Fusion via Subject-Invariant Cross-Modal Prompt Tuning for Video-Based Emotion Recognition",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2605.05694, 2026",
+    "year": 2026,
+    "detail": "",
+    "category": "vision",
+    "category_source": "rule-fallback",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:_B80troHkn4C",
+    "scholar_id": "GH-rVCUAAAAJ:_B80troHkn4C",
+    "citations": 1,
+    "added": "2026-08-07",
+    "needs_review": true
+  },
+  {
     "id": "anon2026hrvfusion",
     "title": "HRVFusion: Video-based Long-Term Heart Rate Variability Measurement with Conditional Diffusion Models",
     "authors": "",
@@ -69,6 +105,24 @@
     "added": "2026-08-07"
   },
   {
+    "id": "yu2026hybrid",
+    "title": "A Hybrid Convolutional, Mamba and Spiking Neural Network Architecture Search for Seizure Prediction",
+    "authors": "Yu, B., C. Li, R. Song, X. Liu, R. Qian, and X. Chen",
+    "venue": "Cyborg and Bionic Systems",
+    "year": 2026,
+    "detail": "7: p. 0689",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5awf1xo2G04C",
+    "scholar_id": "GH-rVCUAAAAJ:5awf1xo2G04C",
+    "citations": 0,
+    "added": "2026-11-01",
+    "needs_review": true
+  },
+  {
     "id": "guo2026adaptive",
     "title": "Adaptive Kinematic Masking for Urban Human Activity Recognition Using UWB Radar: A Sim2Real Approach",
     "authors": "Guo, Yuchao., Naike. Du, Rencheng. Song, and Xiuzhu. Ye",
@@ -84,24 +138,6 @@
     "scholar_id": "GH-rVCUAAAAJ:dTyEYWd-f8wC",
     "citations": 0,
     "added": "2026-09-01",
-    "needs_review": true
-  },
-  {
-    "id": "anon2026adaptive",
-    "title": "Adaptive Physical-Facial Representation Fusion via Subject-Invariant Cross-Modal Prompt Tuning for Video-Based Emotion Recognition",
-    "authors": "",
-    "venue": "arXiv preprint arXiv:2605.05694, 2026",
-    "year": 2026,
-    "detail": "",
-    "category": "vision",
-    "category_source": "rule-fallback",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:_B80troHkn4C",
-    "scholar_id": "GH-rVCUAAAAJ:_B80troHkn4C",
-    "citations": 0,
-    "added": "2026-08-07",
     "needs_review": true
   },
   {
@@ -193,24 +229,6 @@
     "added": "2026-08-07"
   },
   {
-    "id": "xing2026uncertainty",
-    "title": "Uncertainty as Risk: A Plug-and-Play Evidence-Guided Framework with Error-Aligned Calibration for Medical Image Segmentation",
-    "authors": "Xing, Chaojie., Haolin. Zhan, Rencheng. Song, and Yu. Liu",
-    "venue": "Medical Image Analysis",
-    "year": 2026,
-    "detail": "104291: p. 2026",
-    "category": "fusion",
-    "category_source": "rule-fallback",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eq2jaN3J8jMC",
-    "scholar_id": "GH-rVCUAAAAJ:eq2jaN3J8jMC",
-    "citations": 0,
-    "added": "2026-09-01",
-    "needs_review": true
-  },
-  {
     "id": "li2026uncertainty",
     "title": "Uncertainty-Guided Evidential Deep Learning Schemes in Full-Wave Inverse Scattering Problems",
     "authors": "Li, Tingyu., Rencheng. Song, and Xiuzhu. Ye",
@@ -259,7 +277,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:bnK-pcrLprsC",
     "scholar_id": "GH-rVCUAAAAJ:bnK-pcrLprsC",
-    "citations": 13,
+    "citations": 17,
     "added": "2026-08-07"
   },
   {
@@ -276,7 +294,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:eflP2zaiRacC",
     "scholar_id": "GH-rVCUAAAAJ:eflP2zaiRacC",
-    "citations": 10,
+    "citations": 11,
     "added": "2026-08-07"
   },
   {
@@ -293,7 +311,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:q3oQSFYPqjQC",
     "scholar_id": "GH-rVCUAAAAJ:q3oQSFYPqjQC",
-    "citations": 8,
+    "citations": 9,
     "added": "2026-08-07"
   },
   {
@@ -310,6 +328,23 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:1qzjygNMrQYC",
     "scholar_id": "GH-rVCUAAAAJ:1qzjygNMrQYC",
+    "citations": 8,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "anon2025rppg",
+    "title": "Lst-rppg: A long-range spatio-temporal model for high-accuracy heart rate variability measurement",
+    "authors": "",
+    "venue": "Expert Systems with Applications",
+    "year": 2025,
+    "detail": "129526: p. 2025",
+    "category": "vision",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5ugPr518TE4C",
+    "scholar_id": "GH-rVCUAAAAJ:5ugPr518TE4C",
     "citations": 7,
     "added": "2026-08-07"
   },
@@ -328,23 +363,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:fQNAKQ3IYiAC",
     "scholar_id": "GH-rVCUAAAAJ:fQNAKQ3IYiAC",
     "citations": 7,
-    "added": "2026-08-07"
-  },
-  {
-    "id": "anon2025rppg",
-    "title": "Lst-rppg: A long-range spatio-temporal model for high-accuracy heart rate variability measurement",
-    "authors": "",
-    "venue": "Expert Systems with Applications",
-    "year": 2025,
-    "detail": "129526: p. 2025",
-    "category": "vision",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5ugPr518TE4C",
-    "scholar_id": "GH-rVCUAAAAJ:5ugPr518TE4C",
-    "citations": 6,
     "added": "2026-08-07"
   },
   {
@@ -378,7 +396,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:kRWSkSYxWN8C",
     "scholar_id": "GH-rVCUAAAAJ:kRWSkSYxWN8C",
-    "citations": 2,
+    "citations": 3,
     "added": "2026-08-07",
     "needs_review": true
   },
@@ -396,7 +414,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:HE397vMXCloC",
     "scholar_id": "GH-rVCUAAAAJ:HE397vMXCloC",
-    "citations": 2,
+    "citations": 3,
     "added": "2026-08-07"
   },
   {
@@ -534,7 +552,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:738O_yMBCRsC",
     "scholar_id": "GH-rVCUAAAAJ:738O_yMBCRsC",
-    "citations": 32,
+    "citations": 34,
     "added": "2026-08-07",
     "needs_review": true
   },
@@ -552,7 +570,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:p2g8aNsByqUC",
     "scholar_id": "GH-rVCUAAAAJ:p2g8aNsByqUC",
-    "citations": 21,
+    "citations": 24,
     "added": "2026-08-07"
   },
   {
@@ -603,7 +621,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:WbkHhVStYXYC",
     "scholar_id": "GH-rVCUAAAAJ:WbkHhVStYXYC",
-    "citations": 16,
+    "citations": 17,
     "added": "2026-08-07"
   },
   {
@@ -708,7 +726,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:XiSMed-E-HIC",
     "scholar_id": "GH-rVCUAAAAJ:XiSMed-E-HIC",
-    "citations": 4,
+    "citations": 5,
     "added": "2026-08-07"
   },
   {
@@ -742,6 +760,23 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4fKUyHm3Qg0C",
     "scholar_id": "GH-rVCUAAAAJ:4fKUyHm3Qg0C",
+    "citations": 2,
+    "added": "2026-08-07"
+  },
+  {
+    "id": "anon2024paper",
+    "title": "基于无源域适应的脑电情绪识别",
+    "authors": "",
+    "venue": "中国生物医学工程学报 43 (2), 129-142, 2024",
+    "year": 2024,
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5Ul4iDaHHb8C",
+    "scholar_id": "GH-rVCUAAAAJ:8AbLer7MMksC",
     "citations": 1,
     "added": "2026-08-07"
   },
@@ -817,23 +852,6 @@
     "hidden_reason": "duplicate of: Meta-learning-assisted untrained neural network for electrom"
   },
   {
-    "id": "anon2024paper",
-    "title": "基于无源域适应的脑电情绪识别",
-    "authors": "",
-    "venue": "中国生物医学工程学报 43 (2), 129-142, 2024",
-    "year": 2024,
-    "detail": "",
-    "category": "fusion",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:5Ul4iDaHHb8C",
-    "scholar_id": "GH-rVCUAAAAJ:8AbLer7MMksC",
-    "citations": 0,
-    "added": "2026-08-07"
-  },
-  {
     "id": "wei2023transformer",
     "title": "TC-Net: A Transformer Capsule Network for EEG-based emotion recognition",
     "authors": "Wei, Y., Y. Liu, C. Li, J. Cheng, R. Song, and X. Chen",
@@ -847,7 +865,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:dfsIfKJdRG4C",
     "scholar_id": "GH-rVCUAAAAJ:dfsIfKJdRG4C",
-    "citations": 152,
+    "citations": 153,
     "added": "2026-08-06"
   },
   {
@@ -864,7 +882,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:D03iK_w7-QYC",
     "scholar_id": "GH-rVCUAAAAJ:D03iK_w7-QYC",
-    "citations": 79,
+    "citations": 82,
     "added": "2026-08-06"
   },
   {
@@ -881,7 +899,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:fPk4N6BV_jEC",
     "scholar_id": "GH-rVCUAAAAJ:fPk4N6BV_jEC",
-    "citations": 70,
+    "citations": 71,
     "added": "2026-08-06"
   },
   {
@@ -898,7 +916,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:CHSYGLWDkRkC",
     "scholar_id": "GH-rVCUAAAAJ:CHSYGLWDkRkC",
-    "citations": 45,
+    "citations": 49,
     "added": "2026-08-06"
   },
   {
@@ -932,7 +950,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:OU6Ihb5iCvQC",
     "scholar_id": "GH-rVCUAAAAJ:OU6Ihb5iCvQC",
-    "citations": 27,
+    "citations": 28,
     "added": "2026-08-07"
   },
   {
@@ -949,7 +967,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:UxriW0iASnsC",
     "scholar_id": "GH-rVCUAAAAJ:UxriW0iASnsC",
-    "citations": 22,
+    "citations": 23,
     "added": "2026-08-06"
   },
   {
@@ -1024,6 +1042,23 @@
     "added": "2026-08-06"
   },
   {
+    "id": "mao2023online",
+    "title": "Online Test-Time Adaptation for Patient-Independent Seizure Prediction",
+    "authors": "Mao, T., C. Li, Y. Zhao, R. Song, and X. Chen",
+    "venue": "IEEE Sensors Journal",
+    "year": 2023,
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:KxtntwgDAa4C",
+    "scholar_id": "GH-rVCUAAAAJ:KxtntwgDAa4C",
+    "citations": 18,
+    "added": "2026-08-06"
+  },
+  {
     "id": "han2023contact",
     "title": "Non-contact blood pressure estimation using BP-related cardiovascular knowledge: an uncalibrated method based on consumer-level camera",
     "authors": "Han, X., X. Yang, S. Fang, R. Song, L. Li, and J. Zhang",
@@ -1061,23 +1096,6 @@
     "hidden_reason": "duplicate of: Non-contact blood pressure estimation using BP-related cardi"
   },
   {
-    "id": "mao2023online",
-    "title": "Online Test-Time Adaptation for Patient-Independent Seizure Prediction",
-    "authors": "Mao, T., C. Li, Y. Zhao, R. Song, and X. Chen",
-    "venue": "IEEE Sensors Journal",
-    "year": 2023,
-    "detail": "",
-    "category": "fusion",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:KxtntwgDAa4C",
-    "scholar_id": "GH-rVCUAAAAJ:KxtntwgDAa4C",
-    "citations": 17,
-    "added": "2026-08-06"
-  },
-  {
     "id": "cheng2023motion",
     "title": "Motion-robust anterior–posterior imaging ballistocardiography for non-contact heart rate measurements",
     "authors": "Cheng, J., B. Yue, R. Song, Y. Liu, C. Li, and X. Chen",
@@ -1091,7 +1109,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:1sJd4Hv_s6UC",
     "scholar_id": "GH-rVCUAAAAJ:1sJd4Hv_s6UC",
-    "citations": 9,
+    "citations": 10,
     "added": "2026-08-06"
   },
   {
@@ -1126,7 +1144,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:SP6oXDckpogC",
     "scholar_id": "GH-rVCUAAAAJ:SP6oXDckpogC",
-    "citations": 6,
+    "citations": 7,
     "added": "2026-08-07"
   },
   {
@@ -1229,7 +1247,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:ZHo1McVdvXMC",
     "scholar_id": "GH-rVCUAAAAJ:ZHo1McVdvXMC",
-    "citations": 147,
+    "citations": 152,
     "added": "2026-08-06"
   },
   {
@@ -1263,7 +1281,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:HoB7MX3m0LUC",
     "scholar_id": "GH-rVCUAAAAJ:HoB7MX3m0LUC",
-    "citations": 75,
+    "citations": 77,
     "added": "2026-08-06"
   },
   {
@@ -1280,7 +1298,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:zA6iFVUQeVQC",
     "scholar_id": "GH-rVCUAAAAJ:zA6iFVUQeVQC",
-    "citations": 71,
+    "citations": 73,
     "added": "2026-08-06"
   },
   {
@@ -1297,7 +1315,24 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:pqnbT2bcN3wC",
     "scholar_id": "GH-rVCUAAAAJ:pqnbT2bcN3wC",
-    "citations": 62,
+    "citations": 65,
+    "added": "2026-08-06"
+  },
+  {
+    "id": "li2022patient",
+    "title": "Patient-specific seizure prediction from electroencephalogram signal via multi-channel feedback capsule network",
+    "authors": "Li, C., Y. Zhao, R. Song, X. Liu, R. Qian, and X. Chen",
+    "venue": "IEEE Transactions on Cognitive and Developmental Systems",
+    "year": 2022,
+    "detail": "",
+    "category": "fusion",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:3s1wT3WcHBgC",
+    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
+    "citations": 51,
     "added": "2026-08-06"
   },
   {
@@ -1321,23 +1356,6 @@
     "hidden_reason": "duplicate of: Patient-specific seizure prediction from electroencephalogra"
   },
   {
-    "id": "li2022patient",
-    "title": "Patient-specific seizure prediction from electroencephalogram signal via multi-channel feedback capsule network",
-    "authors": "Li, C., Y. Zhao, R. Song, X. Liu, R. Qian, and X. Chen",
-    "venue": "IEEE Transactions on Cognitive and Developmental Systems",
-    "year": 2022,
-    "detail": "",
-    "category": "fusion",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": null,
-    "scholar_id": "GH-rVCUAAAAJ:3s1wT3WcHBgC",
-    "citations": 50,
-    "added": "2026-08-06"
-  },
-  {
     "id": "li2022multi",
     "title": "Multi-channel EEG-based emotion recognition in the presence of noisy labels",
     "authors": "Li, C., Y. Hou, R. Song, J. Cheng, Y. Liu, and X. Chen",
@@ -1351,7 +1369,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:ldfaerwXgEUC",
     "scholar_id": "GH-rVCUAAAAJ:ldfaerwXgEUC",
-    "citations": 33,
+    "citations": 34,
     "added": "2026-08-06"
   },
   {
@@ -1368,7 +1386,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:M05iB0D1s5AC",
     "scholar_id": "GH-rVCUAAAAJ:M05iB0D1s5AC",
-    "citations": 32,
+    "citations": 33,
     "added": "2026-08-06"
   },
   {
@@ -1385,7 +1403,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:vV6vV6tmYwMC",
     "scholar_id": "GH-rVCUAAAAJ:vV6vV6tmYwMC",
-    "citations": 26,
+    "citations": 27,
     "added": "2026-08-06"
   },
   {
@@ -1406,6 +1424,23 @@
     "added": "2026-08-06"
   },
   {
+    "id": "song2022electromagnetic",
+    "title": "Electromagnetic Inverse Scattering With an Untrained SOM-Net",
+    "authors": "Song, R., M. Li, K. Xu, C. Li, and X. Chen",
+    "venue": "IEEE Transactions on Microwave Theory and Techniques",
+    "year": 2022,
+    "detail": "70(11): p. 4980-4990",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": true,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:SeFeTyx0c_EC",
+    "scholar_id": "GH-rVCUAAAAJ:SeFeTyx0c_EC",
+    "citations": 20,
+    "added": "2026-08-06"
+  },
+  {
     "id": "liu2022videocad",
     "title": "VideoCAD: an uncertainty-driven neural network for coronary artery disease screening from facial videos",
     "authors": "Liu, X., X. Yang, R. Song, J. Zhang, and L. Li",
@@ -1423,23 +1458,6 @@
     "added": "2026-08-06"
   },
   {
-    "id": "song2022electromagnetic",
-    "title": "Electromagnetic Inverse Scattering With an Untrained SOM-Net",
-    "authors": "Song, R., M. Li, K. Xu, C. Li, and X. Chen",
-    "venue": "IEEE Transactions on Microwave Theory and Techniques",
-    "year": 2022,
-    "detail": "70(11): p. 4980-4990",
-    "category": "em",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": true,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:SeFeTyx0c_EC",
-    "scholar_id": "GH-rVCUAAAAJ:SeFeTyx0c_EC",
-    "citations": 17,
-    "added": "2026-08-06"
-  },
-  {
     "id": "song2022video",
     "title": "Video-Based Heart Rate Measurement Against Uneven Illuminations Using Multivariate Singular Spectrum Analysis",
     "authors": "Song, R., X. Sun, J. Cheng, X. Yang, and X. Chen",
@@ -1453,7 +1471,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:rO6llkc54NcC",
     "scholar_id": "GH-rVCUAAAAJ:rO6llkc54NcC",
-    "citations": 16,
+    "citations": 17,
     "added": "2026-08-06"
   },
   {
@@ -1470,7 +1488,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:u_35RYKgDlwC",
     "scholar_id": "GH-rVCUAAAAJ:u_35RYKgDlwC",
-    "citations": 12,
+    "citations": 13,
     "added": "2026-08-06"
   },
   {
@@ -1564,7 +1582,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:iH-uZ7U-co4C",
     "scholar_id": "GH-rVCUAAAAJ:iH-uZ7U-co4C",
-    "citations": 317,
+    "citations": 323,
     "added": "2026-08-06"
   },
   {
@@ -1581,7 +1599,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:J_g5lzvAfSwC",
     "scholar_id": "GH-rVCUAAAAJ:J_g5lzvAfSwC",
-    "citations": 102,
+    "citations": 103,
     "added": "2026-08-06"
   },
   {
@@ -1598,7 +1616,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:NaGl4SEjCO4C",
     "scholar_id": "GH-rVCUAAAAJ:NaGl4SEjCO4C",
-    "citations": 89,
+    "citations": 91,
     "added": "2026-08-06"
   },
   {
@@ -1649,7 +1667,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:O3NaXMp0MMsC",
     "scholar_id": "GH-rVCUAAAAJ:O3NaXMp0MMsC",
-    "citations": 42,
+    "citations": 43,
     "added": "2026-08-06"
   },
   {
@@ -1671,6 +1689,23 @@
     "needs_review": true
   },
   {
+    "id": "song2021convolutional",
+    "title": "A Convolutional Sparsity Regularization for Solving Inverse Scattering Problems",
+    "authors": "Song, R., Q. Zhou, Y. Liu, C. Li, and X. Chen",
+    "venue": "IEEE Antennas and Wireless Propagation Letters",
+    "year": 2021,
+    "detail": "20(12): p. 2285-2289",
+    "category": "em",
+    "category_source": "rule",
+    "corresponding": false,
+    "selected": false,
+    "pdf": null,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:lSLTfruPkqcC",
+    "scholar_id": "GH-rVCUAAAAJ:lSLTfruPkqcC",
+    "citations": 5,
+    "added": "2026-08-06"
+  },
+  {
     "id": "li2021superpixel",
     "title": "Superpixel-Based Noise-Robust Sparse Unmixing of Hyperspectral Image",
     "authors": "Li, C., C. Sui, R. Song, J. Cheng, Y. Liu, and X. Chen",
@@ -1685,23 +1720,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:RYcK_YlVTxYC",
     "scholar_id": "GH-rVCUAAAAJ:RYcK_YlVTxYC",
     "citations": 5,
-    "added": "2026-08-06"
-  },
-  {
-    "id": "song2021convolutional",
-    "title": "A Convolutional Sparsity Regularization for Solving Inverse Scattering Problems",
-    "authors": "Song, R., Q. Zhou, Y. Liu, C. Li, and X. Chen",
-    "venue": "IEEE Antennas and Wireless Propagation Letters",
-    "year": 2021,
-    "detail": "20(12): p. 2285-2289",
-    "category": "em",
-    "category_source": "rule",
-    "corresponding": false,
-    "selected": false,
-    "pdf": null,
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:lSLTfruPkqcC",
-    "scholar_id": "GH-rVCUAAAAJ:lSLTfruPkqcC",
-    "citations": 4,
     "added": "2026-08-06"
   },
   {
@@ -1776,7 +1794,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:JV2RwH3_ST0C",
     "scholar_id": "GH-rVCUAAAAJ:JV2RwH3_ST0C",
-    "citations": 726,
+    "citations": 746,
     "added": "2026-08-06"
   },
   {
@@ -1793,7 +1811,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:r0BpntZqJG4C",
     "scholar_id": "GH-rVCUAAAAJ:r0BpntZqJG4C",
-    "citations": 294,
+    "citations": 301,
     "added": "2026-08-06"
   },
   {
@@ -1810,7 +1828,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:TFP_iSt0sucC",
     "scholar_id": "GH-rVCUAAAAJ:TFP_iSt0sucC",
-    "citations": 254,
+    "citations": 259,
     "added": "2026-08-06"
   },
   {
@@ -1827,7 +1845,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4JMBOYKVnBMC",
     "scholar_id": "GH-rVCUAAAAJ:4JMBOYKVnBMC",
-    "citations": 167,
+    "citations": 168,
     "added": "2026-08-06"
   },
   {
@@ -1844,7 +1862,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:blknAaTinKkC",
     "scholar_id": "GH-rVCUAAAAJ:blknAaTinKkC",
-    "citations": 137,
+    "citations": 141,
     "added": "2026-08-06"
   },
   {
@@ -1878,7 +1896,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:hMod-77fHWUC",
     "scholar_id": "GH-rVCUAAAAJ:hMod-77fHWUC",
-    "citations": 90,
+    "citations": 91,
     "added": "2026-08-06"
   },
   {
@@ -1895,7 +1913,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:M3NEmzRMIkIC",
     "scholar_id": "GH-rVCUAAAAJ:M3NEmzRMIkIC",
-    "citations": 76,
+    "citations": 77,
     "added": "2026-08-06",
     "needs_review": true
   },
@@ -2195,7 +2213,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:hFOr9nPyWt4C",
     "scholar_id": "GH-rVCUAAAAJ:hFOr9nPyWt4C",
-    "citations": 276,
+    "citations": 278,
     "added": "2026-08-06"
   },
   {
@@ -2249,7 +2267,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:M3ejUd6NZC8C",
     "scholar_id": "GH-rVCUAAAAJ:M3ejUd6NZC8C",
-    "citations": 8,
+    "citations": 10,
     "added": "2026-08-06"
   },
   {
@@ -2266,7 +2284,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:4DMP91E08xMC",
     "scholar_id": "GH-rVCUAAAAJ:4DMP91E08xMC",
-    "citations": 68,
+    "citations": 70,
     "added": "2026-08-06"
   },
   {
@@ -2283,7 +2301,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:aqlVkmm33-oC",
     "scholar_id": "GH-rVCUAAAAJ:aqlVkmm33-oC",
-    "citations": 6,
+    "citations": 7,
     "added": "2026-08-06"
   },
   {
@@ -2300,7 +2318,7 @@
     "pdf": null,
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GH-rVCUAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=GH-rVCUAAAAJ:kNdYIx-mwKoC",
     "scholar_id": "GH-rVCUAAAAJ:kNdYIx-mwKoC",
-    "citations": 22,
+    "citations": 23,
     "added": "2026-08-06"
   },
   {
